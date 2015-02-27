@@ -27,3 +27,8 @@
 			#contains latex file and subsequent latex files needed 
 			for compiling final report file (note: .tex files that 
 			reference any bib file should reference the bibs/ dir)
+
+		presentation/
+			#talk.tex and supporting files for presentation and 
+			talk 
+

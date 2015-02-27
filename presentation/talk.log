@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  26 FEB 2015 23:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  26 FEB 2015 23:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -691,18 +691,9 @@ Package: beamerinnerthemedefault 2013/10/15  (rcs-revision 65cb471f9634)
 lt.sty
 Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
 )))
-(c:/texlive/2014/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeCopenhagen
-.sty
-Package: beamerthemeCopenhagen 2010/06/17  (rcs-revision d02a7cf4d8ae)
+(c:/texlive/2014/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeMadrid.sty
+Package: beamerthemeMadrid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-(c:/texlive/2014/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemesplit
-.sty
-Package: beamerouterthemesplit 2012/10/16  (rcs-revision 51a8c72084af)
-)
-(c:/texlive/2014/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemeround
-ed.sty
-Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
 (c:/texlive/2014/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemewhale
 .sty
 Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
@@ -710,6 +701,14 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 (c:/texlive/2014/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemeorchi
 d.sty
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(c:/texlive/2014/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemeround
+ed.sty
+Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(c:/texlive/2014/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemeinfol
+ines.sty
+Package: beamerouterthemeinfolines 2012/10/16  (rcs-revision 51a8c72084af)
 )) (c:/texlive/2014/texmf-dist/tex/latex/physics/physics.sty
 Package: physics 
 
@@ -1765,14 +1764,14 @@ LaTeX Font Info:    ... okay on input line 97.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=307.28987pt
+* \textwidth=342.2953pt
 * \textheight=244.6939pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1922,9 +1921,9 @@ LaTeX Info: Redefining \includegraphics on input line 97.
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 101.
 
-[1{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+[1
 
-] (./talk.toc)
+{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./talk.toc)
 [2
 
 ] [3
@@ -1997,13 +1996,13 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 259.
  ) 
 Here is how much of TeX's memory you used:
- 22936 strings out of 493109
- 446883 string characters out of 6138587
- 499614 words of memory out of 5000000
- 25932 multiletter control sequences out of 15000+600000
- 12833 words of font info for 46 fonts, out of 8000000 for 9000
+ 22945 strings out of 493109
+ 446977 string characters out of 6138587
+ 501829 words of memory out of 5000000
+ 25941 multiletter control sequences out of 15000+600000
+ 13140 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,19n,69p,10427b,808s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,16n,69p,10427b,808s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2014
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/texlive/2014/texmf-di
@@ -2013,10 +2012,10 @@ c/amsfonts/cm/cmssbx10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmssi10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mssi8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb
 ><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on talk.pdf (13 pages, 132657 bytes).
+Output written on talk.pdf (13 pages, 137198 bytes).
 PDF statistics:
- 475 PDF objects out of 1000 (max. 8388607)
- 429 compressed objects within 5 object streams
+ 449 PDF objects out of 1000 (max. 8388607)
+ 402 compressed objects within 5 object streams
  31 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
