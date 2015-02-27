@@ -2,9 +2,17 @@
 
 
 	Author: Kraig J. Andrews
+	
 	Date Created: 26/02/2015
+	
 	File: README.md
-	Purpose: Give overview of directory structure
+
+	Purpose: 
+		-Give overview of directory structure
+		-Describe contents of each subdirectory 
+		-Reference any notes or structural issues needed for 
+			referencing *.bib, *.png, etc... files in a 
+			*.tex file
 	
 	Repository for condensed matter literature survey on two dimensional
 	material beyond graphene and their applications
