@@ -6,7 +6,7 @@
 	Current structure:
 
 
-	termpaper/:
+	two-dim-materials/:
   		articles/
 			reviews/
 			#contains survey articles that give a useful overview 
