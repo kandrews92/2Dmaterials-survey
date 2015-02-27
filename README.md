@@ -1,7 +1,13 @@
-#termpaper
+#two-dim-materials
 
+
+	Author: Kraig J. Andrews
+	Date Created: 26/02/2015
+	File: README.md
+	Purpose: Give overview of directory structure
 	
-	Repository for PHY 7050 term paper.
+	Repository for condensed matter literature survey on two dimensional
+	material beyond graphene and their applications
 
 	Current structure:
 
