@@ -1,0 +1,23 @@
+#!/bin/bash
+
+RM='rm -f'
+base="*.aux *.log *.blg *.out *.synctex.gz*"
+bbl="*.bbl"
+toc="*.toc"
+
+for a in $@; do
+        if [ "$a" = "-b" ]; then
+                bbl="*.bbl"
+        fi
+        if [ "$a" = "-t" ]; then
+                toc="*.toc"
+        fi
+        if [ "$a" = "-a" ]; then
+                bbl="*.bbl"
+                toc="*.toc"
+        fi
+done
+
+
+echo "cleaning $base $bbl $toc from $PWD"
+$RM $base $bbl $toc
