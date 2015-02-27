@@ -32,3 +32,6 @@
 			#talk.tex and supporting files for presentation and 
 			talk 
 
+		figs/
+			#any figures that are to be used in susequent files or
+			directories under the branch termpaper/
