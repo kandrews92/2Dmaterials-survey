@@ -18,6 +18,10 @@ for a in $@; do
         fi
 done
 
+for d in */ ; do
+	echo "$d"
+done
+
 
 echo "cleaning $base $bbl $toc from $PWD"
 $RM $base $bbl $toc
