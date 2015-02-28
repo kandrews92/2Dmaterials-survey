@@ -1,8 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  28 FEB 2015 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  28 FEB 2015 12:44
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**overview.tex
+**overview
 (./overview.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
@@ -120,7 +121,7 @@ Here is how much of TeX's memory you used:
  4277 multiletter control sequences out of 15000+600000
  7934 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,6n,32p,322b,218s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 24i,6n,32p,318b,218s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/201
 4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-di
