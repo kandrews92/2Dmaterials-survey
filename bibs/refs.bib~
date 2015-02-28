@@ -72,3 +72,28 @@
 	abstract = {Research on graphene and other two-dimensional atomic crystals is intense and is likely to remain one of the leading topics in condensed matter physics and materials science for many years. Looking beyond this field, isolated atomic planes can also be reassembled into designer heterostructures made layer by layer in a precisely chosen sequence. The first, already remarkably complex, such heterostructures (often referred to as ‘van der Waals’) have recently been fabricated and investigated, revealing unusual properties and new phenomena. Here we review this emerging research area and identify possible future directions. With steady improvement in fabrication techniques and using graphene’s springboard, van der Waals heterostructures should develop into a large field of their own.}
 }
 
+@article{electronicsAndOptoelectronics2012,
+	author = {Qing Hua Wang and Kourosh Kalantar-Zadeh and Andras Kis and Jonathan N. Coleman and Michael S. Strano},
+	title = {Electronics and optoelectronics of two-dimensional transition metal dichalogenides},
+	volume = {7},
+	year = {2012},
+	pages = {699-712},
+	doi = {doi:10.1038/nnano.2012.193},
+	journal = {Nature Nanotechnology},
+	url = {http://www.nature.com/nnano/journal/v7/n11/full/nnano.2012.193.html},
+	abstract = {The remarkable properties of graphene have renewed interest in inorganic, two-dimensional materials with unique electronic and optical attributes. Transition metal dichalcogenides (TMDCs) are layered materials with strong in-plane bonding and weak out-of-plane interactions enabling exfoliation into two-dimensional layers of single unit cell thickness. Although TMDCs have been studied for decades, recent advances in nanoscale materials characterization and device fabrication have opened up new opportunities for two-dimensional layers of thin TMDCs in nanoelectronics and optoelectronics. TMDCs such as MoS2, MoSe2, WS2 and WSe2 have sizable bandgaps that change from indirect to direct in single layers, allowing applications such as transistors, photodetectors and electroluminescent devices. We review the historical development of TMDCs, methods for preparing atomically thin layers, their electronic and optical properties, and prospects for future advances in electronics and optoelectronics.}
+}
+
+@article{NovoselovEtAl2005,
+author = {Novoselov, K. S. and Jiang, D. and Schedin, F. and Booth, T. J. and Khotkevich, V. V. and Morozov, S. V. and Geim, A. K.}, 
+title = {Two-dimensional atomic crystals},
+volume = {102}, 
+number = {30}, 
+pages = {10451-10453}, 
+year = {2005}, 
+doi = {10.1073/pnas.0502848102}, 
+abstract ={We report free-standing atomic crystals that are strictly 2D and can be viewed as individual atomic planes pulled out of bulk crystals or as unrolled single-wall nanotubes. By using micromechanical cleavage, we have prepared and studied a variety of 2D crystals including single layers of boron nitride, graphite, several dichalcogenides, and complex oxides. These atomically thin sheets (essentially gigantic 2D molecules unprotected from the immediate environment) are stable under ambient conditions, exhibit high crystal quality, and are continuous on a macroscopic scale.}, 
+URL = {http://www.pnas.org/content/102/30/10451.abstract}, 
+eprint = {http://www.pnas.org/content/102/30/10451.full.pdf+html}, 
+journal = {Proceedings of the National Academy of Sciences of the United States of America} 
+}

@@ -22,6 +22,11 @@ A.K. Geim and I.V. Grigorieva.
 \newblock van der waals heterostructures.
 \newblock {\em Nature}, 499:419--425, 2013.
 
+\bibitem{KrotoFullerenes1985}
+H.~W. Kroto, J.~R. Heath, S.~C. O'Brien, R.~F. Curl, and R.~E. Smalley.
+\newblock C60: Buckminsterfullerene.
+\newblock {\em Nature}, 318:162--163, 1985.
+
 \bibitem{singleLayerMoS2electronics2015}
 Dominik Lembke, Simone Bertolazzi, and Andras Kis.
 \newblock Single-layer mos2 electronics.
@@ -33,6 +38,13 @@ Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio Gomez-Herrero, and Felix
   Zamora.
 \newblock 2d materials: to graphene and beyond.
 \newblock {\em Nanoscale}, 3:20--30, 2011.
+
+\bibitem{NovoselovEtAl2005}
+K.~S. Novoselov, D.~Jiang, F.~Schedin, T.~J. Booth, V.~V. Khotkevich, S.~V.
+  Morozov, and A.~K. Geim.
+\newblock Two-dimensional atomic crystals.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 102(30):10451--10453, 2005.
 
 \bibitem{electronicsAndOptoelectronics2012}
 Qing~Hua Wang, Kourosh Kalantar-Zadeh, Andras Kis, Jonathan~N. Coleman, and

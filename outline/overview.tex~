@@ -9,6 +9,19 @@
 \begin{document}
 \maketitle
 
+\begin{enumerate}%outer layer begin
+	\item{ Introduction \& Beginnings
+}
+	\begin{enumerate} % inner-layer begin
+		\item{Before graphene}
+			\begin{enumerate} %inner-inner-layer begin
+				\item{Fullerenes discovered in 1985 \cite{
+			\end{enumerate}	%inner-inner-layer end
+	\end{enumerate} % inner-layer end
+
+\end{enumerate} %outer layer end
+
+\textbf{Notes from class overview}
 \begin{enumerate} %outer layer
 	\item{TMDs}
 
@@ -26,7 +39,7 @@
 	\item{Problems/Outlook:\\
 		Contacts, interface, controlled doping, etc...}
 
-	\item{Citations: \cite{2DflexibleNanoElectronics2014, nanoscaleReview2011,acsnanoReview2013, singleLayerMoS2electronics2015, vanderWaalsHeterostruct2013}}
+	\item{Citations: \cite{2DflexibleNanoElectronics2014, nanoscaleReview2011,acsnanoReview2013, singleLayerMoS2electronics2015, vanderWaalsHeterostruct2013, electronicsAndOptoelectronics2012, NovoselovEtAl2005}}
 
 \end{enumerate} %outer layer
 
