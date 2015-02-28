@@ -1,0 +1,73 @@
+#!/bin/bash
+
+RM='rm'
+
+bbl="*.bbl"
+toc="*.toc"
+aux="*.aux"
+log="*.log"
+blg="*.blg"
+out="*.out"
+sgz="*.synctex.gz*"
+
+for d in */;
+	do
+		echo "Entering $d"
+		cd $d
+
+		for f in *;
+		do 
+			if [ -e $bbl ] ;
+			then 
+				echo "cleaning $bbl from $PWD"
+				$RM $bbl 
+			fi
+
+			if [ -e $toc ] ;
+			then
+				echo "cleaning $toc from $PWD"
+				$RM $toc 
+			fi
+
+			if [ -e $aux ] ;
+			then
+				echo "cleaning $aux from $PWD"
+				$RM $aux
+			fi
+
+			if [ -e $blg ] ;
+			then
+				echo "cleaning $blg from $PWD"
+				$RM $blg
+			fi
+
+			if [ -e $log ] ;
+			then
+				echo "cleaning $log from $PWD"
+				$RM $log
+			fi
+
+			if [ -e $out ] ;
+			then
+				echo "cleaning $out from $PWD"
+				$RM $out
+			fi
+
+			if [ -e $sgz ] ;
+			then
+				echo "cleaning $sgz from $PWD"
+				$RM $sgz
+			fi
+		done;
+		
+		echo
+		echo "$d is clean..."
+		echo
+		
+		cd ../
+	done;
+
+echo "$PWD is clean. ready for push..."
+
+#echo "cleaning $base $bbl $toc from $PWD"
+#$RM $base $bbl $toc
