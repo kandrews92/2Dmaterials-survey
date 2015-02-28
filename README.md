@@ -33,6 +33,10 @@
 				contains articles that have yet to be 
 				read and placed into a specific category
 
+			graphene:/
+				specifically articles relating to the 
+				development and study of graphene
+
 		bibs/:
 			contains bibtex file for the papers contained 
 			in articles dir
