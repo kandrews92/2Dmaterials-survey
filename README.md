@@ -21,6 +21,11 @@
 
 
 	two-dim-materials/:
+		
+		"clean" (shell script): 
+			for cleaning out dirs by removing
+			unneeded structural files before committing and then
+			pushing them to git repo. 
 
   		articles/:
 
@@ -68,8 +73,9 @@
 			"mk":
 				compiles latex in a given dir
 				must be placed in desired dir to compile
-			"clean":
+			"clean-template":
 				rm's any files that aren't necessary
 				for preservation, i.e. *.aux, *.toc, etc.
 				before pushing to repo for space
-				conservation
+				conservation. Just a template file. 
+				For reference, if needed.
