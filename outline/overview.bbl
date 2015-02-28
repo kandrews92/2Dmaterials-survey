@@ -1,37 +1,14 @@
 \begin{thebibliography}{1}
 
-\bibitem{2DflexibleNanoElectronics2014}
-Deji Akinwande, Nicholas Petron, and James Hone.
-\newblock Two-dimensional flexible nanoelectronics.
-\newblock {\em Nature Communications}, 5, 2014.
+\bibitem{iijimaCarbonNanotubes1991}
+Sumio Iijima.
+\newblock Helical microtubules of graphitic carbon.
+\newblock {\em Nature}, 354:56--58, 1991.
 
-\bibitem{acsnanoReview2013}
-Sheneve~Z. Butler, Shawna~M. Hollen, Linyou Cao, Yi~Cui, Jay~A. Gupta,
-  Humberto~R. Gutiérrez, Tony~F. Heinz, Seung~Sae Hong, Jiaxing Huang,
-  Ariel~F. Ismach, Ezekiel Johnston-Halperin, Masaru Kuno, Vladimir~V.
-  Plashnitsa, Richard~D. Robinson, Rodney~S. Ruoff, Sayeef Salahuddin, Jie
-  Shan, Li~Shi, Michael~G. Spencer, Mauricio Terrones, Wolfgang Windl, and
-  Joshua~E. Goldberger.
-\newblock Progress, challenges, and opportunities in two-dimensional materials
-  beyond graphene.
-\newblock {\em ACS Nano}, 7(4):2898--2926, 2013.
-\newblock PMID: 23464873.
-
-\bibitem{vanderWaalsHeterostruct2013}
-A.K. Geim and I.V. Grigorieva.
-\newblock van der waals heterostructures.
-\newblock {\em Nature}, 499:419--425, 2013.
-
-\bibitem{KrotoFullerenes1985}
+\bibitem{krotoFullerenes1985}
 H.~W. Kroto, J.~R. Heath, S.~C. O'Brien, R.~F. Curl, and R.~E. Smalley.
 \newblock C60: Buckminsterfullerene.
 \newblock {\em Nature}, 318:162--163, 1985.
-
-\bibitem{singleLayerMoS2electronics2015}
-Dominik Lembke, Simone Bertolazzi, and Andras Kis.
-\newblock Single-layer mos2 electronics.
-\newblock {\em Accounts of Chemical Research}, 48(1):100--110, 2015.
-\newblock PMID: 25555202.
 
 \bibitem{nanoscaleReview2011}
 Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio Gomez-Herrero, and Felix
@@ -39,18 +16,17 @@ Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio Gomez-Herrero, and Felix
 \newblock 2d materials: to graphene and beyond.
 \newblock {\em Nanoscale}, 3:20--30, 2011.
 
-\bibitem{NovoselovEtAl2005}
+\bibitem{novoselovEtAl2004}
+K.~S. Novoselov, A.~K. Geim, S.~V. Morozov, D.~Jiang, Y.~Zhang, S.~V. Dubonos,
+  I.~V. Grigorieva, and A.~A. Firsov.
+\newblock Electric field effect in atomically thin carbon films.
+\newblock {\em Science}, 306(5696):666--669, 2004.
+
+\bibitem{novoselovEtAl2005}
 K.~S. Novoselov, D.~Jiang, F.~Schedin, T.~J. Booth, V.~V. Khotkevich, S.~V.
   Morozov, and A.~K. Geim.
 \newblock Two-dimensional atomic crystals.
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 102(30):10451--10453, 2005.
-
-\bibitem{electronicsAndOptoelectronics2012}
-Qing~Hua Wang, Kourosh Kalantar-Zadeh, Andras Kis, Jonathan~N. Coleman, and
-  Michael~S. Strano.
-\newblock Electronics and optoelectronics of two-dimensional transition metal
-  dichalogenides.
-\newblock {\em Nature Nanotechnology}, 7:699--712, 2012.
 
 \end{thebibliography}
