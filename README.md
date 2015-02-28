@@ -54,6 +54,12 @@
 			any figures that are to be used in susequent 
 			files or directories under the main branch
 
+		macros/:
+			"units.tex":
+				macros for commonly used units. 
+				this should be referenced directly
+				in each *.tex file it is used in
+
 		scripts/:
 			"mk":
 				compiles latex in a given dir
