@@ -17,7 +17,20 @@
 	Repository for condensed matter literature survey on two dimensional
 	material beyond graphene and their applications
 
-	Current structure:
+	Current tree:
+
+	two-dim-materials/
+		articles/reviews/..
+			unread/..
+		bibs/..
+		macros/..
+		outline/..
+		presentation/..
+		report/..
+		scripts/..
+		README.md
+		clean
+
 
 
 	two-dim-materials/:
