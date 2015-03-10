@@ -278,3 +278,30 @@ journal = {Science}
 	url  ="http://dx.doi.org/10.1039/C1JM10697J",
 	abstract  ="Graphene sheets decorated with metal nanoparticles are emerging novel graphene-based hybrids for tuning the intrinsic properties of both components for fundamental research and technological applications. Here we report a new wet-chemistry strategy to efficiently and uniformly decorate reduced graphene oxide (RGO) with unique gold nanodots (GNDs). Non-covalent self-assembly of a perylene thiol derivative (ETPTCDI) on the basal plane of GO forms graphene by reducing the dispersed GO and serves as an excellent two-dimensional template in solution for in situ nucleation and growth of gold nanodots via thiol-Au bonding. We characterized the resulting RGO-ETPTCDI-GND in detail and confirm that the Au nanodots with unique size ([similar]2 nm) decorate the RGO-ETPTCDI sheets uniformly due to the self-assembly of ETPTCDI molecules on the basal plane of graphene. We demonstrate that our RGO-ETPTCDI-GND sheets have astonishing dispersibility{,} reliability{,} and processibility. The uniform decoration of the [similar]2 nm GNDs on the graphene surface makes it possible to use the nanodots as a contrast enhancement agent for easily revealing the fine structure of the graphene surface. The electrochemical activity of our RGO-ETPTCDI-GND modified glassy carbon electrode showed significant improvement{,} suggesting RGO-ETPTCDI-GND as an attractive robust and advanced hybrid electrode material with great promise for electrochemical sensors and energy conversion."}
 }
+
+@article{Giem2007,
+	author = {Giem, A. K. and Novoselov, K. S.},
+	title = {The Rise of Graphene},
+	journal = {Nature Materials},
+	year = {2007},
+	volume = {6},
+	pages = {183-191},
+	doi = {10.1038/nmat1849},
+	url = {http://dx.doi.org/10.1038/nmat1849},
+	abstract = {Graphene is a rapidly rising star on the horizon of materials science and condensed-matter physics. This strictly two-dimensional material exhibits exceptionally high crystal and electronic quality, and, despite its short history, has already revealed a cornucopia of new physics and potential applications, which are briefly discussed here. Whereas one can be certain of the realness of applications only when commercial products appear, graphene no longer requires any further proof of its importance in terms of fundamental physics. Owing to its unusual electronic spectrum, graphene has led to the emergence of a new paradigm of 'relativistic' condensed-matter physics, where quantum relativistic phenomena, some of which are unobservable in high-energy physics, can now be mimicked and tested in table-top experiments. More generally, graphene represents a conceptually new class of materials that are only one atom thick, and, on this basis, offers new inroads into low-dimensional physics that has never ceased to surprise and continues to provide a fertile ground for applications.}
+}
+
+@article{WilsonTMDs1969,
+	author = {Wilson, J.A. and Yoffe, A.D.},
+	title = {The transition metal dichalcogenides discussion and interpretation of the observed optical, electrical and structural properties},
+	journal = {Advances in Physics},
+	volume = {18},
+	number = {73},
+	pages = {193-335},
+	year = {1969},
+	doi = {10.1080/00018736900101307},
+	URL = {http://dx.doi.org/10.1080/00018736900101307},
+	eprint = {http://dx.doi.org/10.1080/00018736900101307},
+	abstract = {The transition metal dichalcogenides are about 60 in number. Two-thirds of these assume layer structures. Crystals of such materials can be cleaved down to less than 1000 Å and are then transparent in the region of direct band-to-band transitions. The transmission spectra of the family have been correlated group by group with the wide range of electrical and structural data available to yield useful working band models that are in accord with a molecular orbital approach. Several special topics have arisen; these include exciton screening, d-band formation, and the metal/insulator transition; also magnetism and superconductivity in such compounds. High pressure work seems to offer the possibility for testing the recent theory of excitonic insulators. }
+
+}

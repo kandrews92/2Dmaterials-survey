@@ -52,15 +52,22 @@
 							\item{High speed electronics \cite{LinGraphene2010}.}
 							\item{Optical devices \cite{LiuOpticalGraphene2011}.}
 							\item{Energy applications \cite{LiuOpticalGraphene2011, EnergyGraphene2009, ZhuEnergy2011}.}
-							\item{Hybrid Materials and Chemical sensors \cite{LiuOpticalGraphene2011, El-Kady2012, XiYang2011
+							\item{Hybrid Materials and Chemical sensors \cite{LiuOpticalGraphene2011, El-Kady2012, XiYang2011, Giem2007}.}
 						\end{enumerate}
 				\end{enumerate} %end inner-inner-inner layer
 
 		\end{enumerate} %inner-layer end
 	\item{\textbf{Why are 2D materials significant?}}
+
 		\begin{enumerate} %inner-layer begin
-			\item{}
+			\item{TMDs}
+				\begin{enumerate}
+					\item{Transition metal dichalcogenides (TMDs)}
+					\item{Hexagonal layers of metal atoms ($\mathrm{M}$) between two layers of chalcogen atoms ($\mathrm{X}$) with a $\mathrm{MX}_2$ stoichiometry. \cite{grapheneLike2Dreview2013}.}
+					\item{Different TMDs are possible. It is dependent on the combination of the chalcogen (i.e. S, Se, or Te) and a transition metal (i.e. Mo, W, Nb, Re, Ni, or V)
+				\end{enumerate}
 		\end{enumerate} % inner-layer end
+
 	\item{\textbf{Synthesis Methods}}
 		\begin{enumerate} %inner-layer begin
 			\item{}
