@@ -92,3 +92,7 @@
 				before pushing to repo for space
 				conservation. Just a template file. 
 				For reference, if needed.
+
+		old/:
+			Old files that could be used for reference. Older 
+			versions of files that are worth keeping.
