@@ -84,7 +84,7 @@
 	abstract = {The remarkable properties of graphene have renewed interest in inorganic, two-dimensional materials with unique electronic and optical attributes. Transition metal dichalcogenides (TMDCs) are layered materials with strong in-plane bonding and weak out-of-plane interactions enabling exfoliation into two-dimensional layers of single unit cell thickness. Although TMDCs have been studied for decades, recent advances in nanoscale materials characterization and device fabrication have opened up new opportunities for two-dimensional layers of thin TMDCs in nanoelectronics and optoelectronics. TMDCs such as MoS2, MoSe2, WS2 and WSe2 have sizable bandgaps that change from indirect to direct in single layers, allowing applications such as transistors, photodetectors and electroluminescent devices. We review the historical development of TMDCs, methods for preparing atomically thin layers, their electronic and optical properties, and prospects for future advances in electronics and optoelectronics.}
 }
 
-@article{NovoselovEtAl2005,
+@article{novoselovEtAl2005,
 author = {Novoselov, K. S. and Jiang, D. and Schedin, F. and Booth, T. J. and Khotkevich, V. V. and Morozov, S. V. and Geim, A. K.}, 
 title = {Two-dimensional atomic crystals},
 volume = {102}, 
@@ -96,4 +96,185 @@ abstract ={We report free-standing atomic crystals that are strictly 2D and can 
 URL = {http://www.pnas.org/content/102/30/10451.abstract}, 
 eprint = {http://www.pnas.org/content/102/30/10451.full.pdf+html}, 
 journal = {Proceedings of the National Academy of Sciences of the United States of America} 
+}
+
+@article{novoselovEtAl2004,
+author = {Novoselov, K. S. and Geim, A. K. and Morozov, S. V. and Jiang, D. and Zhang, Y. and Dubonos, S. V. and Grigorieva, I. V. and Firsov, A. A.}, 
+title = {Electric Field Effect in Atomically Thin Carbon Films},
+volume = {306}, 
+number = {5696}, 
+pages = {666-669}, 
+year = {2004}, 
+doi = {10.1126/science.1102896}, 
+abstract ={We describe monocrystalline graphitic films, which are a few atoms thick but are nonetheless stable under ambient conditions, metallic, and of remarkably high quality. The films are found to be a two-dimensional semimetal with a tiny overlap between valence and conductance bands, and they exhibit a strong ambipolar electric field effect such that electrons and holes in concentrations up to 1013 per square centimeter and with room-temperature mobilities of ∼10,000 square centimeters per volt-second can be induced by applying gate voltage.}, 
+URL = {http://www.sciencemag.org/content/306/5696/666.abstract}, 
+eprint = {http://www.sciencemag.org/content/306/5696/666.full.pdf}, 
+journal = {Science} 
+}
+
+@article{krotoFullerenes1985,
+	author = {Kroto, H. W. and Heath, J. R. and O'Brien, S. C. and Curl, R. F. and Smalley, R. E.},
+	year = {1985},
+	title = {C60: Buckminsterfullerene},
+	journal = {Nature},
+	volume = {318},
+	issue = {6042},
+	pages = {162-163},
+	doi = {10.1038/318162a0},
+	url = {http://dx.doi.org/10.1038/318162a0},
+	abstract = {During experiments aimed at understanding the mechanisms by which long-chain carbon molecules are formed in interstellar space and circumstellar shells1, graphite has been vaporized by laser irradiation, producing a remarkably stable cluster consisting of 60 carbon atoms. Concerning the question of what kind of 60-carbon atom structure might give rise to a superstable species, we suggest a truncated icosahedron, a polygon with 60 vertices and 32 faces, 12 of which are pentagonal and 20 hexagonal. This object is commonly encountered as the football shown in Fig. 1. The C60 molecule which results when a carbon atom is placed at each vertex of this structure has all valences satisfied by two single bonds and one double bond, has many resonance structures, and appears to be aromatic.}
+}
+
+@article{iijimaCarbonNanotubes1991,
+	author = {Iijima, Sumio},
+	title = {Helical Microtubules of graphitic Carbon},
+	journal = {Nature},
+	year = {1991},
+	volume = {354},
+	issue = {6348},
+	pages = {56-58},
+	doi = {10.1038/354056a0},
+	url = {http://dx.doi.org/10.1038/354056a0},
+	abstract = {THE synthesis of molecular carbon structures in the form of C60 and other fullerenes1 has stimulated intense interest in the structures accessible to graphitic carbon sheets. Here I report the preparation of a new type of finite carbon structure consisting of needle-like tubes. Produced using an arc-discharge evaporation method similar to that used for fullerene synthesis, the needles grow at the negative end of the electrode used for the arc discharge. Electron microscopy reveals that each needle comprises coaxial tubes of graphitic sheets, ranging in number from 2 up to about 50. On each tube the carbon-atom hexagons are arranged in a helical fashion about the needle axis. The helical pitch varies from needle to needle and from tube to tube within a single needle. It appears that this helical structure may aid the growth process. The formation of these needles, ranging from a few to a few tens of nanometres in diameter, suggests that engineering of carbon structures should be possible on scales considerably greater than those relevant to the fullerenes.}
+}
+
+@article{Baughman2002,
+author = {Baughman, Ray H. and Zakhidov, Anvar A. and de Heer, Walt A.}, 
+title = {Carbon Nanotubes--the Route Toward Applications},
+volume = {297}, 
+number = {5582}, 
+pages = {787-792}, 
+year = {2002}, 
+doi = {10.1126/science.1060928}, 
+abstract ={Many potential applications have been proposed for carbon nanotubes, including conductive and high-strength composites; energy storage and energy conversion devices; sensors; field emission displays and radiation sources; hydrogen storage media; and nanometer-sized semiconductor devices, probes, and interconnects. Some of these applications are now realized in products. Others are demonstrated in early to advanced devices, and one, hydrogen storage, is clouded by controversy. Nanotube cost, polydispersity in nanotube type, and limitations in processing and assembly methods are important barriers for some applications of single-walled nanotubes.}, 
+URL = {http://www.sciencemag.org/content/297/5582/787.abstract}, 
+eprint = {http://www.sciencemag.org/content/297/5582/787.full.pdf}, 
+journal = {Science} 
+}
+
+@article{Rotkin2004,
+   author = "Rotkin, Slava V. and Hess, Karl",
+   title = "Possibility of a metallic field-effect transistor",
+   journal = "Applied Physics Letters",
+   year = "2004",
+   volume = "84",
+   number = "16", 
+   pages = "3139-3141",
+   url = "http://scitation.aip.org/content/aip/journal/apl/84/16/10.1063/1.1710717",
+   doi = "http://dx.doi.org/10.1063/1.1710717",
+   abstract = "We develop theoretical arguments that demonstrate the possibility of metallic field-effect transistors in one-dimensional systems and particularly in armchair carbon nanotubes. A very inhomogeneous electric field, such as the field of a tunneling tip, can penetrate the relatively weakly screened nanotubes and open an energy gap. As a consequence, an energy barrier forms that impedes electron flow and thus permits transistor action. This type of metallic field effect is advantageous because of the high conductance of the metallic tubes in the ON state."
+}
+
+@ARTICLE{mascaro2001,
+	author={Dimitrakopoulos, C.D. and Mascaro, D.J.},
+	journal={IBM Journal of Research and Development},
+	title={Organic thin-film transistors: A review of recent advances},
+	year={2001},
+	month={Jan},
+	volume={45},
+	number={1},
+	pages={11-27},
+	doi={10.1147/rd.451.0011},
+	ISSN={0018-8646},
+	abstract = {In this paper we review recent progress in materials, fabrication processes, device designs, and applications related to organic thin-film transistors (OTFTs), with an emphasis on papers published during the last three years. Some earlier papers that played an important role in shaping the OTFT field are included, and a number of previously published review papers that cover that early period more completely are referenced. We also review in more detail related work that originated at IBM during the last four years and has led to the fabrication of high-performance organic transistors on flexible, transparent plastic substrates requiring low operating voltages.}
+}
+
+@article{grapheneLike2Dreview2013,
+	author = {Xu, Mingsheng and Liang, Tao and Shi, Minmin and Chen, Hongzheng},
+	title = {Graphene-Like Two-Dimensional Materials},
+	journal = {Chemical Reviews},
+	volume = {113},
+	number = {5},
+	pages = {3766-3798},
+	year = {2013},
+	doi = {10.1021/cr300263a},
+    note ={PMID: 23286380},
+	URL = { 
+        http://dx.doi.org/10.1021/cr300263a
+	},
+	eprint = { 
+        http://dx.doi.org/10.1021/cr300263a
+	},
+	abstract = {State Key Laboratory of Silicon Materials, MOE Key Laboratory of Macromolecular Synthesis and Functionalization, Department of Polymer Science and Engineering, Zhejiang University, Hangzhou 310027, People’s Republic of China}
+}
+
+@article{LinGraphene2010,
+	author = {Lin, Y.-M. and Dimitrakopoulos, C. and Jenkins, K. A. and 		Farmer, D. B. and Chiu, H.-Y. and Grill, A. and Avouris, Ph.}, 
+	title = {100-GHz Transistors from Wafer-Scale Epitaxial Graphene},
+	volume = {327}, 
+	number = {5966}, 
+	pages = {662}, 
+	year = {2010}, 
+	doi = {10.1126/science.1184289}, 
+	abstract ={The high carrier mobility of graphene has been exploited in field-effect transistors that operate at high frequencies. 	Transistors were fabricated on epitaxial graphene synthesized on the silicon face of a silicon carbide wafer, achieving a cutoff frequency of 100 gigahertz for a gate length of 240 nanometers. The high-frequency performance of these epitaxial graphene transistors exceeds that of state-of-the-art silicon transistors of the same gate length.}, 
+	URL = {http://www.sciencemag.org/content/327/5966/662.abstract}, 
+	eprint = {http://www.sciencemag.org/content/327/5966/662.full.pdf}, 
+	journal = {Science} 
+}
+
+@article{LiuOpticalGraphene2011,
+	author = {Liu, M. and Yin, X. B. and Ulin-Avila, E. and Geng, B.S. and Zentgraf, T. and Lu, L. and Wang, F. and Zhang, X.},
+	title = {A graphene-based broadband optical modulator},
+	journal = {Nature},
+	volume = {474},
+	issue = {7349},
+	pages = {64-67},
+	doi = {10.1038/nature10067},
+	year = {2011},
+	url = {http://dx.doi.org/10.1038/nature10067},
+	abstract = {Integrated optical modulators with high modulation speed, small footprint and large optical bandwidth are poised to be the enabling devices for on-chip optical interconnects1, 2. Semiconductor modulators have therefore been heavily researched over the past few years. However, the device footprint of silicon-based modulators is of the order of millimetres, owing to its weak electro-optical properties3. Germanium and compound semiconductors, on the other hand, face the major challenge of integration with existing silicon electronics and photonics platforms4, 5, 6. Integrating silicon modulators with high-quality-factor optical resonators increases the modulation strength, but these devices suffer from intrinsic narrow bandwidth and require sophisticated optical design; they also have stringent fabrication requirements and limited temperature tolerances7. Finding a complementary metal-oxide-semiconductor (CMOS)-compatible material with adequate modulation speed and strength has therefore become a task of not only scientific interest, but also industrial importance. Here we experimentally demonstrate a broadband, high-speed, waveguide-integrated electroabsorption modulator based on monolayer graphene. By electrically tuning the Fermi level of the graphene sheet, we demonstrate modulation of the guided light at frequencies over 1 GHz, together with a broad operation spectrum that ranges from 1.35 to 1.6 µm under ambient conditions. The high modulation efficiency of graphene results in an active device area of merely 25 µm2, which is among the smallest to date. This graphene-based optical modulation mechanism, with combined advantages of compact footprint, low operation voltage and ultrafast modulation speed across a broad range of wavelengths, can enable novel architectures for on-chip optical communications.}
+}
+
+@article{EnergyGraphene2009,
+	author = {Kim, Keun Soo and Zhao, Yue and Jang, Houk and Lee, Sang Yoon and Kim, Jong Min and Kim, Kwang S. and Ahn, Jong-Hyun and Kim, Philip and Choi, Jae-Young and Hong, Byung Hee},
+	title = {Large-scale pattern growth of graphene films for stretchable transparent electrodes},
+	journal = {Nature},
+	year = {2009},
+	volume = {457},
+	pages = {706-710},
+	url = {http://dx.doi.org/10.1038/nature07719},
+	doi = {10.1038/nature07719},
+	abstract = {Problems associated with large-scale pattern growth of graphene constitute one of the main obstacles to using this material in device applications. Recently, macroscopic-scale graphene films were prepared by two-dimensional assembly of graphene sheets chemically derived from graphite crystals and graphene oxides. However, the sheet resistance of these films was found to be much larger than theoretically expected values. Here we report the direct synthesis of large-scale graphene films using chemical vapour deposition on thin nickel layers, and present two different methods of patterning the films and transferring them to arbitrary substrates. The transferred graphene films show very low sheet resistance of approximately 280 Omega per square, with approximately 80 per cent optical transparency. At low temperatures, the monolayers transferred to silicon dioxide substrates show electron mobility greater than 3,700 cm(2) V(-1) s(-1) and exhibit the half-integer quantum Hall effect, implying that the quality of graphene grown by chemical vapour deposition is as high as mechanically cleaved graphene. Employing the outstanding mechanical properties of graphene, we also demonstrate the macroscopic use of these highly conducting and transparent electrodes in flexible, stretchable, foldable electronics.}
+}
+
+@article{ZhuEnergy2011,
+	author = {Zhu, Yanwu and Murali, Shanthi and Stoller, Meryl D. and 	Ganesh, K. J. and Cai, Weiwei and Ferreira, Paulo J. and Pirkle, Adam and Wallace, Robert M. and Cychosz, Katie A. and Thommes, Matthias and Su, Dong and Stach, Eric A. and Ruoff, Rodney S.}, 
+	title = {Carbon-Based Supercapacitors Produced by Activation of Graphene},
+	volume = {332}, 
+	number = {6037}, 
+	pages = {1537-1541}, 
+	year = {2011}, 
+	doi = {10.1126/science.1200770}, 
+	abstract ={Supercapacitors, also called ultracapacitors or electrochemical capacitors, store electrical charge on high-surface-area conducting materials. Their widespread use is limited by their low energy storage density and relatively high effective series resistance. Using chemical activation of exfoliated graphite oxide, we synthesized a porous carbon with a Brunauer-Emmett-Teller surface area of up to 3100 square meters per gram, a high electrical conductivity, and a low oxygen and hydrogen content. This sp2-bonded carbon has a continuous three-dimensional network of highly curved, atom-thick walls that form primarily 0.6- to 5-nanometer-width pores. Two-electrode supercapacitor cells constructed with this carbon yielded high values of gravimetric capacitance and energy density with organic and ionic liquid electrolytes. The processes used to make this carbon are readily scalable to industrial levels.}, 
+	URL = {http://www.sciencemag.org/content/332/6037/1537.abstract}, 
+	eprint = {http://www.sciencemag.org/content/332/6037/1537.full.pdf}, 
+	journal = {Science} 
+}
+
+@article{El-Kady2012,
+	author = {El-Kady, Maher F. and Strong, Veronica and Dubin, Sergey and Kaner, Richard B.}, 
+	title = {Laser Scribing of High-Performance and Flexible Graphene-Based Electrochemical Capacitors},
+	volume = {335}, 
+	number = {6074}, 
+	pages = {1326-1330}, 
+	year = {2012}, 
+	doi = {10.1126/science.1216744}, 
+	abstract ={Although electrochemical capacitors (ECs), also known as supercapacitors or ultracapacitors, charge and discharge faster than batteries, they are still limited by low energy densities and slow rate capabilities. We used a standard LightScribe DVD optical drive to do the direct laser reduction of graphite oxide films to graphene. The produced films are mechanically robust, show high electrical conductivity (1738 siemens per meter) and specific surface area (1520 square meters per gram), and can thus be used directly as EC electrodes without the need for binders or current collectors, as is the case for conventional ECs. Devices made with these electrodes exhibit ultrahigh energy density values in different electrolytes while maintaining the high power density and excellent cycle stability of ECs. Moreover, these ECs maintain excellent electrochemical attributes under high mechanical stress and thus hold promise for high-power, flexible electronics.}, 
+	URL = {http://www.sciencemag.org/content/335/6074/1326.abstract}, 
+	eprint = {http://www.sciencemag.org/content/335/6074/1326.full.pdf}, 
+	journal = {Science} 
+}
+
+@Article{XiYang2011,
+	author ="Yang, Xi and Xu, Mingsheng and Qiu, Weiming and Chen, Xiaoqiang and Deng, Meng and Zhang, Jinglin and Iwai, Hideo and Watanabe, Eiichiro and Chen, Hongzheng",
+	title  ="Graphene uniformly decorated with gold nanodots: in situ synthesis{,} enhanced dispersibility and applications",
+	journal  ="J. Mater. Chem.",
+	year  ="2011",
+	volume  ="21",
+	issue  ="22",
+	pages  ="8096-8103",
+	publisher  ="The Royal Society of Chemistry",
+	doi  ="10.1039/C1JM10697J",
+	url  ="http://dx.doi.org/10.1039/C1JM10697J",
+	abstract  ="Graphene sheets decorated with metal nanoparticles are emerging novel graphene-based hybrids for tuning the intrinsic properties of both components for fundamental research and technological applications. Here we report a new wet-chemistry strategy to efficiently and uniformly decorate reduced graphene oxide (RGO) with unique gold nanodots (GNDs). Non-covalent self-assembly of a perylene thiol derivative (ETPTCDI) on the basal plane of GO forms graphene by reducing the dispersed GO and serves as an excellent two-dimensional template in solution for in situ nucleation and growth of gold nanodots via thiol-Au bonding. We characterized the resulting RGO-ETPTCDI-GND in detail and confirm that the Au nanodots with unique size ([similar]2 nm) decorate the RGO-ETPTCDI sheets uniformly due to the self-assembly of ETPTCDI molecules on the basal plane of graphene. We demonstrate that our RGO-ETPTCDI-GND sheets have astonishing dispersibility{,} reliability{,} and processibility. The uniform decoration of the [similar]2 nm GNDs on the graphene surface makes it possible to use the nanodots as a contrast enhancement agent for easily revealing the fine structure of the graphene surface. The electrochemical activity of our RGO-ETPTCDI-GND modified glassy carbon electrode showed significant improvement{,} suggesting RGO-ETPTCDI-GND as an attractive robust and advanced hybrid electrode material with great promise for electrochemical sensors and energy conversion."}
 }
