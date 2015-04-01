@@ -1,31 +1,49 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Baughman2002}
 Ray~H. Baughman, Anvar~A. Zakhidov, and Walt~A. de~Heer.
 \newblock Carbon nanotubes--the route toward applications.
 \newblock {\em Science}, 297(5582):787--792, 2002.
 
-\bibitem{mascaro2001}
+\bibitem{Mascaro2001}
 C.D. Dimitrakopoulos and D.J. Mascaro.
 \newblock Organic thin-film transistors: A review of recent advances.
 \newblock {\em IBM Journal of Research and Development}, 45(1):11--27, Jan
   2001.
+
+\bibitem{Dresselhaus2002}
+M.~S. Dresselhaus and G.~Dresselhaus.
+\newblock Intercalation compounds of graphite.
+\newblock {\em Advances in Physics}, 51(1):1--186, 2002.
 
 \bibitem{iijimaCarbonNanotubes1991}
 Sumio Iijima.
 \newblock Helical microtubules of graphitic carbon.
 \newblock {\em Nature}, 354:56--58, 1991.
 
+\bibitem{Atalla1960}
+D.~Kahng and M.~Atalla.
+\newblock Us patents 3206670 and 3102230, 1960.
+
 \bibitem{krotoFullerenes1985}
 H.~W. Kroto, J.~R. Heath, S.~C. O'Brien, R.~F. Curl, and R.~E. Smalley.
 \newblock C60: Buckminsterfullerene.
 \newblock {\em Nature}, 318:162--163, 1985.
+
+\bibitem{Lilienfeld1925}
+J.E. Lilienfeld.
+\newblock Us patent 174175, 1925.
 
 \bibitem{nanoscaleReview2011}
 Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio Gomez-Herrero, and Felix
   Zamora.
 \newblock 2d materials: to graphene and beyond.
 \newblock {\em Nanoscale}, 3:20--30, 2011.
+
+\bibitem{Moore1965}
+G.~Moore.
+\newblock Cramming more components onto integrated circuits.
+\newblock {\em Electronics}, 38(8), 1965.
 
 \bibitem{novoselovEtAl2004}
 K.~S. Novoselov, A.~K. Geim, S.~V. Morozov, D.~Jiang, Y.~Zhang, S.~V. Dubonos,
@@ -39,5 +57,21 @@ K.~S. Novoselov, D.~Jiang, F.~Schedin, T.~J. Booth, V.~V. Khotkevich, S.~V.
 \newblock Two-dimensional atomic crystals.
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 102(30):10451--10453, 2005.
+
+\bibitem{Novoselov2007}
+K.S. Novoselov and A.K. Geim.
+\newblock The rise of graphene.
+\newblock {\em Nature Materials}, 6:183--191, 2007.
+
+\bibitem{Schulz1999}
+Max Schulz.
+\newblock The end of the road for silicon?
+\newblock {\em Nature}, 399:729--730, 1999.
+
+\bibitem{Brenner2002}
+O.~A. Shenderova, V.~V. Zhirnov, and D.~W. Brenner.
+\newblock Carbon nanostructures.
+\newblock {\em Critical Reviews in Solid State and Materials Sciences},
+  27(3-4):227--356, 2002.
 
 \end{thebibliography}
