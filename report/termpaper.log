@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  11 APR 2015 20:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  11 APR 2015 21:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1891,72 +1891,103 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 92.
 (c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 1152) in paragraph at lines 102--103
-\OT1/cmr/m/n/10 graphene is sim-ply a sin-gle layer of car-bon atoms
+Underfull \hbox (badness 1715) in paragraph at lines 100--102
+\OT1/cmr/m/n/10 and have be-come un-avoid-able through-out ev-ery-day
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 103--104
+\OT1/cmr/m/n/10 i-cal stud-ies in-volv-ing the use of a sin-gle layer of
  []
 
 <../figs/multiDimGraphene.png, id=4, 357.335pt x 314.17375pt>
 File: ../figs/multiDimGraphene.png Graphic file (type png)
 
 <use ../figs/multiDimGraphene.png>
-Package pdftex.def Info: ../figs/multiDimGraphene.png used on input line 105.
+Package pdftex.def Info: ../figs/multiDimGraphene.png used on input line 107.
 (pdftex.def)             Requested size: 142.2608pt x 142.26375pt.
 
 <../figs/grapheneBandGap.png, id=6, 549.55313pt x 239.39438pt>
 File: ../figs/grapheneBandGap.png Graphic file (type png)
 
 <use ../figs/grapheneBandGap.png>
-Package pdftex.def Info: ../figs/grapheneBandGap.png used on input line 111.
+Package pdftex.def Info: ../figs/grapheneBandGap.png used on input line 115.
 (pdftex.def)             Requested size: 170.7119pt x 85.35635pt.
- [1{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../figs/mult
-iDimGraphene.png> <../figs/grapheneBandGap.png>] <../figs/mos2diagram.png, id=2
-5, 383.93437pt x 152.82094pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
+
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 122--125
+\OT1/cmr/m/n/10 For ap-pli-ca-tions to elec-tron-ics a ma-te-rial's band
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 122--125
+\OT1/cmr/m/n/10 po-ten-tial for electronic-photonic de-vice ap-pli-ca-tions
+ []
+
+[1{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../figs/multi
+DimGraphene.png> <../figs/grapheneBandGap.png>]
+<../figs/mos2diagram.png, id=25, 383.93437pt x 152.82094pt>
 File: ../figs/mos2diagram.png Graphic file (type png)
 
 <use ../figs/mos2diagram.png>
-Package pdftex.def Info: ../figs/mos2diagram.png used on input line 128.
+Package pdftex.def Info: ../figs/mos2diagram.png used on input line 135.
 (pdftex.def)             Requested size: 199.17249pt x 85.35759pt.
 
 <../figs/mos2bandgap.png, id=26, 173.14688pt x 188.95593pt>
 File: ../figs/mos2bandgap.png Graphic file (type png)
 
 <use ../figs/mos2bandgap.png>
-Package pdftex.def Info: ../figs/mos2bandgap.png used on input line 134.
+Package pdftex.def Info: ../figs/mos2bandgap.png used on input line 141.
 (pdftex.def)             Requested size: 106.70001pt x 128.03854pt.
  (./termpaper.bbl [2 <../figs/mos2diagram.png> <../figs/mos2bandgap.png>]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
 
-Underfull \hbox (badness 1406) in paragraph at lines 77--81
+Underfull \hbox (badness 1406) in paragraph at lines 83--87
  []\OT1/cmr/m/n/9 Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio
  []
 
-) [3] (./termpaper.aux) ) 
+[3]) [4] (./termpaper.aux) ) 
 Here is how much of TeX's memory you used:
- 22449 strings out of 493109
- 442817 string characters out of 6138587
- 490485 words of memory out of 5000000
- 25550 multiletter control sequences out of 15000+600000
+ 22465 strings out of 493109
+ 443076 string characters out of 6138587
+ 485549 words of memory out of 5000000
+ 25566 multiletter control sequences out of 15000+600000
  18321 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,69p,10424b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
-6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/20
-14/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2014/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
-><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texli
-ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on termpaper.pdf (3 pages, 614958 bytes).
+ 62i,8n,69p,10424b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2014/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
+c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2014/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on termpaper.pdf (4 pages, 623961 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 85 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -23,6 +23,12 @@ M.~S. Dresselhaus and G.~Dresselhaus.
 \newblock Intercalation compounds of graphite.
 \newblock {\em Advances in Physics}, 51(1):1--186, 2002.
 
+\bibitem{Geim2011}
+T.J. Echtermeyer, L.~Britnell, P.K. Jasnos, A.~Lombardo, R.V. Gorbachev, A.N.
+  Grigorenko, A.K. Geim, A.C. Ferrari, and K.S. Novoselov.
+\newblock Strong plasmonic enhancement of photovoltage in graphene.
+\newblock {\em Nat. Commun.}, 2:458, 2011.
+
 \bibitem{Fivaz1967}
 R.~Fivaz and E.~Mooser.
 \newblock Mobility of charge carriers in semiconducting layer structures.
@@ -142,6 +148,17 @@ Kyozaburo Takeda and Kenji Shiraishi.
   graphite.
 \newblock {\em Phys. Rev. B}, 50:14916--14922, Nov 1994.
 
+\bibitem{Wallace1947}
+P.~R. Wallace.
+\newblock The band theory of graphite.
+\newblock {\em Phys. Rev.}, 71:622--634, May 1947.
+
+\bibitem{Wang2008}
+Feng Wang, Yuanbo Zhang, Chuanshan Tian, Caglar Girit, Alex Zettl, Michael
+  Crommie, and Y.~Ron Shen.
+\newblock Gate-variable optical transitions in graphene.
+\newblock {\em Science}, 320(5873):206--209, 2008.
+
 \bibitem{Williams2007}
 J.~R. Williams, L.~DiCarlo, and C.~M. Marcus.
 \newblock Quantum hall effect in a gate-controlled p-n junction of graphene.
@@ -152,6 +169,11 @@ J.A. Wilson and A.D. Yoffe.
 \newblock The transition metal dichalcogenides discussion and interpretation of
   the observed optical, electrical and structural properties.
 \newblock {\em Advances in Physics}, 18(73):193--335, 1969.
+
+\bibitem{Xia2009}
+F.N. Xia, T.~Mueller, Y.M. Lin, A.~Valdes-Garcia, and P.~Avouris.
+\newblock Ultrafast graphene photodetector.
+\newblock {\em Nat. Nanotechnol.}, 4:839--843, 2009.
 
 \bibitem{Xie2009}
 Wenjie Xie, Xinfeng Tang, Yonggao Yan, Qingjie Zhang, and Terry~M. Tritt.
