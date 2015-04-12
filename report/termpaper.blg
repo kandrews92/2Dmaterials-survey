@@ -4,44 +4,44 @@ The top-level auxiliary file: termpaper.aux
 The style file: plain.bst
 Database file #1: termpaperNotes.bib
 Database file #2: ../bibs/refs.bib
-You've used 24 entries,
+You've used 31 entries,
             2118 wiz_defined-function locations,
-            687 strings with 8280 characters,
-and the built_in function-call counts, 8520 in all, are:
-= -- 809
-> -- 472
+            733 strings with 9467 characters,
+and the built_in function-call counts, 11388 in all, are:
+= -- 1078
+> -- 658
 < -- 0
-+ -- 189
-- -- 162
-* -- 691
-:= -- 1470
-add.period$ -- 72
-call.type$ -- 24
-change.case$ -- 153
++ -- 264
+- -- 228
+* -- 937
+:= -- 1967
+add.period$ -- 94
+call.type$ -- 31
+change.case$ -- 207
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 255
-empty$ -- 619
-format.name$ -- 162
-if$ -- 1722
+cite$ -- 31
+duplicate$ -- 332
+empty$ -- 805
+format.name$ -- 228
+if$ -- 2294
 int.to.chr$ -- 0
-int.to.str$ -- 24
-missing$ -- 22
-newline$ -- 123
-num.names$ -- 48
-pop$ -- 117
+int.to.str$ -- 31
+missing$ -- 29
+newline$ -- 159
+num.names$ -- 62
+pop$ -- 156
 preamble$ -- 1
-purify$ -- 129
+purify$ -- 176
 quote$ -- 0
-skip$ -- 178
+skip$ -- 229
 stack$ -- 0
-substring$ -- 571
-swap$ -- 24
+substring$ -- 765
+swap$ -- 31
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
+type$ -- 124
 warning$ -- 0
-while$ -- 73
-width$ -- 26
-write$ -- 264
+while$ -- 95
+width$ -- 33
+write$ -- 343

@@ -23,6 +23,11 @@ M.~S. Dresselhaus and G.~Dresselhaus.
 \newblock Intercalation compounds of graphite.
 \newblock {\em Advances in Physics}, 51(1):1--186, 2002.
 
+\bibitem{Fivaz1967}
+R.~Fivaz and E.~Mooser.
+\newblock Mobility of charge carriers in semiconducting layer structures.
+\newblock {\em Phys. Rev.}, 163:743--755, Nov 1967.
+
 \bibitem{Frindt1963}
 R.~F. Frindt and A.~D. Yoffe.
 \newblock Physical properties of layer structures: Optical properties and
@@ -36,6 +41,11 @@ F.~R. Gamble and B.~G. Silbernagel.
   superconducting intercalation complex tas2(nh3): Structural and bonding
   implications.
 \newblock {\em The Journal of Chemical Physics}, 63(6):2544--2552, 1975.
+
+\bibitem{Giem2007}
+A.~K. Giem and K.~S. Novoselov.
+\newblock The rise of graphene.
+\newblock {\em Nature Materials}, 6:183--191, 2007.
 
 \bibitem{iijimaCarbonNanotubes1991}
 Sumio Iijima.
@@ -92,10 +102,21 @@ K.~S. Novoselov, D.~Jiang, F.~Schedin, T.~J. Booth, V.~V. Khotkevich, S.~V.
 \newblock {\em Proceedings of the National Academy of Sciences of the United
   States of America}, 102(30):10451--10453, 2005.
 
+\bibitem{Geim2005_quantum}
+K.S. Novoselov, A.~K. Geim, S.V. Morozov, D.~Jiang, M.I. Katsnelson, I.V.
+  Grigorieva, S.V. Dubonos, and A.A. Firsov.
+\newblock Two-dimensional gas of massless dirac fermions in graphene.
+\newblock {\em Nature}, 438:197--200, 2005.
+
 \bibitem{Novoselov2007}
 K.S. Novoselov and A.K. Geim.
 \newblock The rise of graphene.
 \newblock {\em Nature Materials}, 6:183--191, 2007.
+
+\bibitem{Kis2011}
+B.~Radisavljevic, A.~Radenovic, J.~Brivio, V.~Giacometti, and A.~Kis.
+\newblock Single-layer mos2 transistors.
+\newblock {\em Nat. Nano.}, 6:147--150, 2011.
 
 \bibitem{Schulz1999}
 Max Schulz.
@@ -108,11 +129,23 @@ O.~A. Shenderova, V.~V. Zhirnov, and D.~W. Brenner.
 \newblock {\em Critical Reviews in Solid State and Materials Sciences},
   27(3-4):227--356, 2002.
 
+\bibitem{Splendiani2010}
+Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
+  Chim, Giulia Galli, and Feng Wang.
+\newblock Emerging photoluminescence in monolayer mos2.
+\newblock {\em Nano Letters}, 10(4):1271--1275, 2010.
+\newblock PMID: 20229981.
+
 \bibitem{Takeda1994}
 Kyozaburo Takeda and Kenji Shiraishi.
 \newblock Theoretical possibility of stage corrugation in si and ge analogs of
   graphite.
 \newblock {\em Phys. Rev. B}, 50:14916--14922, Nov 1994.
+
+\bibitem{Williams2007}
+J.~R. Williams, L.~DiCarlo, and C.~M. Marcus.
+\newblock Quantum hall effect in a gate-controlled p-n junction of graphene.
+\newblock {\em Science}, 317(5838):638--641, 2007.
 
 \bibitem{Wilson1969}
 J.A. Wilson and A.D. Yoffe.
@@ -138,5 +171,11 @@ Hong~Bin Zhang, Hai~Lin Yu, Ding~Hua Bao, Shu~Wei Li, Cheng~Xin Wang, and
 \newblock Magnetoresistance switch effect of a sn-doped bi2te3 topological
   insulator.
 \newblock {\em Advanced Materials}, 24(1):132--136, 2012.
+
+\bibitem{Zhang2011}
+L.~Zhang, Y.~Zhang, J.~Camacho, M.~Khodas, and I.~Zaliznyak.
+\newblock The experimental observation of quantum hall effect of l=3 chiral
+  quasiparticles in trilayer graphene.
+\newblock {\em Nat. Phys.}, 7:953--957, 2011.
 
 \end{thebibliography}
