@@ -45,6 +45,7 @@ pra,
 \usepackage{dcolumn}% Align table columns on decimal point
 \usepackage{bm}% bold math
 \usepackage{chemformula}
+\usepackage[flushleft]{threeparttable}
 %\usepackage{hyperref}% add hypertext capabilities
 %\usepackage[mathlines]{lineno}% Enable numbering of text and display math
 %\linenumbers\relax % Commence numbering lines
@@ -142,6 +143,27 @@ As discussed in sec. \ref{subsec:properties_graphene}, pristine graphene has no 
 \caption{Calculated band structures of bulk (a) and monolayer (b) \ch{MoS2} and the arrows indicate the lowest energy transition \cite{Splendiani2010}.}
 \label{fig:mos2bandgap}
 \end{figure}
+
+\begin{table}[ht]
+\begin{threeparttable}
+	\centering
+	\begin{tabular}{l c c}
+		\hline\hline
+		sheet & theoretical $E_\mathrm{gap}$ &  experimental $E_\mathrm{gap}$ \\
+		\hline
+		graphene & 0 & 0 \\
+		bilayer graphene & 0 & 0 \\
+		monolayer \ch{MoS2}\tnote{a} & 1.9 \cite{Fortin1982} & 1.9 \cite{Fortin1982}\\
+		bulk \ch{MoS2} & 1.2 \cite{Mak2010, Gourmelon1997} & 1.0-1.29 \cite{Mak2010, Gourmelon1997}\\
+		\hline
+	\end{tabular}
+	\begin{tablenotes}
+		\item[a] Bilayer \ch{MoS2} is an indirect band gap semiconductor \cite{Naveh2011}
+	\end{tablenotes}
+\end{threeparttable}	
+	\caption{Table of energies for monolayer and bilayer graphene and monolayer and bulk \ch{MoS2} given in units of $\mathrm{eV}$. Table adapted from table in \cite{grapheneLike2Dreview2013}.}
+	\label{tab:gapData}
+\end{table}
 
 %
 %\begin{tabular}{l l l}

@@ -34,6 +34,11 @@ R.~Fivaz and E.~Mooser.
 \newblock Mobility of charge carriers in semiconducting layer structures.
 \newblock {\em Phys. Rev.}, 163:743--755, Nov 1967.
 
+\bibitem{Fortin1982}
+E.~Fortin and W.M. Sears.
+\newblock Photovoltaic effect and optical absorption in mos2.
+\newblock {\em Journal of Physics and Chemistry of Solids}, 43:881--884, 1982.
+
 \bibitem{Frindt1963}
 R.~F. Frindt and A.~D. Yoffe.
 \newblock Physical properties of layer structures: Optical properties and
@@ -52,6 +57,12 @@ F.~R. Gamble and B.~G. Silbernagel.
 A.~K. Giem and K.~S. Novoselov.
 \newblock The rise of graphene.
 \newblock {\em Nature Materials}, 6:183--191, 2007.
+
+\bibitem{Gourmelon1997}
+E.~Gourmelon, O.~Lignier, H.~Hadouda, G.~Couturier, J.C. Bernedea, J.~Teddb,
+  J.~Pouzeta, and J.~Salardenneb.
+\newblock Ms2 (m = mo, w) photosensitive thin films for solar cells.
+\newblock {\em Solar Energy Materials and Solar Cells}, 46:115--121, 1997.
 
 \bibitem{iijimaCarbonNanotubes1991}
 Sumio Iijima.
@@ -78,6 +89,11 @@ Murong Lang, Liang He, Faxian Xiu, Xinxin Yu, Jianshi Tang, Yong Wang, Xufeng
 \bibitem{Lilienfeld1925}
 J.E. Lilienfeld.
 \newblock Us patent 174175, 1925.
+
+\bibitem{Mak2010}
+Kin~Fai Mak, Changgu Lee, James Hone, Jie Shan, and Tony~F. Heinz.
+\newblock Atomically thin ${\mathrm{mos}}_{2}$: A new direct-gap semiconductor.
+\newblock {\em Phys. Rev. Lett.}, 105:136805, Sep 2010.
 
 \bibitem{nanoscaleReview2011}
 Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio Gomez-Herrero, and Felix
@@ -123,6 +139,11 @@ K.S. Novoselov and A.K. Geim.
 B.~Radisavljevic, A.~Radenovic, J.~Brivio, V.~Giacometti, and A.~Kis.
 \newblock Single-layer mos2 transistors.
 \newblock {\em Nat. Nano.}, 6:147--150, 2011.
+
+\bibitem{Naveh2011}
+Ashwin Ramasubramaniam, Doron Naveh, and Elias Towe.
+\newblock Tunable band gaps in bilayer transition-metal dichalcogenides.
+\newblock {\em Phys. Rev. B}, 84:205325, Nov 2011.
 
 \bibitem{Schulz1999}
 Max Schulz.

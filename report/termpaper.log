@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  11 APR 2015 21:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  14 APR 2015 10:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1787,41 +1787,44 @@ Normal \dimen register pool exhausted, switching to extended pool.
 . 
 . Defining command \setchemformula with sig. 'm' on line 2947.
 .................................................
+) (c:/texlive/2014/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box77
 ) (../macros/mydefs.sty)
-Class revtex4-1 Info: Patching array package. on input line 62.
-Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 62.
+Class revtex4-1 Info: Patching array package. on input line 63.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 63.
 
-Class revtex4-1 Info: cite was not loaded (OK!) on input line 62.
-Class revtex4-1 Info: mcite was not loaded (OK!) on input line 62.
-Class revtex4-1 Info: multicol was not loaded (OK!) on input line 62.
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 63.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 63.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 63.
  (./termpaper.aux)
 \openout1 = `termpaper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 63.
 
 (c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    ... okay on input line 63.
 
 (c:/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count161
 \scratchdimen=\dimen286
-\scratchbox=\box77
+\scratchbox=\box78
 \nofMPsegments=\count162
 \nofMParguments=\count163
 \everyMPshowfont=\toks36
@@ -1881,32 +1884,32 @@ e
 ABD: EveryShipout initializing macros
 \openout3 = `termpaperNotes.bib'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 92.
+LaTeX Font Info:    Try loading font information for U+msa on input line 93.
 
 (c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 92.
+LaTeX Font Info:    Try loading font information for U+msb on input line 93.
 
 (c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 1715) in paragraph at lines 100--102
+Underfull \hbox (badness 1715) in paragraph at lines 101--103
 \OT1/cmr/m/n/10 and have be-come un-avoid-able through-out ev-ery-day
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--102
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
 
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 103--104
+Underfull \hbox (badness 1515) in paragraph at lines 104--105
 \OT1/cmr/m/n/10 i-cal stud-ies in-volv-ing the use of a sin-gle layer of
  []
 
@@ -1914,27 +1917,27 @@ Underfull \hbox (badness 1515) in paragraph at lines 103--104
 File: ../figs/multiDimGraphene.png Graphic file (type png)
 
 <use ../figs/multiDimGraphene.png>
-Package pdftex.def Info: ../figs/multiDimGraphene.png used on input line 107.
+Package pdftex.def Info: ../figs/multiDimGraphene.png used on input line 108.
 (pdftex.def)             Requested size: 142.2608pt x 142.26375pt.
 
 <../figs/grapheneBandGap.png, id=6, 549.55313pt x 239.39438pt>
 File: ../figs/grapheneBandGap.png Graphic file (type png)
 
 <use ../figs/grapheneBandGap.png>
-Package pdftex.def Info: ../figs/grapheneBandGap.png used on input line 115.
+Package pdftex.def Info: ../figs/grapheneBandGap.png used on input line 116.
 (pdftex.def)             Requested size: 170.7119pt x 85.35635pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--125
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
 
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 122--125
+Underfull \hbox (badness 4303) in paragraph at lines 123--126
 \OT1/cmr/m/n/10 For ap-pli-ca-tions to elec-tron-ics a ma-te-rial's band
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 122--125
+Underfull \hbox (badness 2608) in paragraph at lines 123--126
 \OT1/cmr/m/n/10 po-ten-tial for electronic-photonic de-vice ap-pli-ca-tions
  []
 
@@ -1944,33 +1947,42 @@ DimGraphene.png> <../figs/grapheneBandGap.png>]
 File: ../figs/mos2diagram.png Graphic file (type png)
 
 <use ../figs/mos2diagram.png>
-Package pdftex.def Info: ../figs/mos2diagram.png used on input line 135.
+Package pdftex.def Info: ../figs/mos2diagram.png used on input line 136.
 (pdftex.def)             Requested size: 199.17249pt x 85.35759pt.
 
 <../figs/mos2bandgap.png, id=26, 173.14688pt x 188.95593pt>
 File: ../figs/mos2bandgap.png Graphic file (type png)
 
 <use ../figs/mos2bandgap.png>
-Package pdftex.def Info: ../figs/mos2bandgap.png used on input line 141.
+Package pdftex.def Info: ../figs/mos2bandgap.png used on input line 142.
 (pdftex.def)             Requested size: 106.70001pt x 128.03854pt.
- (./termpaper.bbl [2 <../figs/mos2diagram.png> <../figs/mos2bandgap.png>]
+
+Underfull \hbox (badness 1147) in paragraph at lines 164--164
+[]\OT1/cmr/m/n/9 TABLE I. Ta-ble of en-er-gies for mono-layer and bi-layer
+ []
+
+(./termpaper.bbl [2 <../figs/mos2diagram.png> <../figs/mos2bandgap.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 1.
+
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
 
-Underfull \hbox (badness 1406) in paragraph at lines 83--87
+Underfull \hbox (badness 1406) in paragraph at lines 99--103
  []\OT1/cmr/m/n/9 Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio
  []
 
 [3]) [4] (./termpaper.aux) ) 
 Here is how much of TeX's memory you used:
- 22465 strings out of 493109
- 443076 string characters out of 6138587
- 485549 words of memory out of 5000000
- 25566 multiletter control sequences out of 15000+600000
+ 22549 strings out of 493109
+ 444452 string characters out of 6138587
+ 487783 words of memory out of 5000000
+ 25646 multiletter control sequences out of 15000+600000
  18321 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,69p,10424b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,15n,69p,10424b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2014/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
@@ -1984,7 +1996,7 @@ onts/cm/cmr7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/201
 4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on termpaper.pdf (4 pages, 623962 bytes).
+Output written on termpaper.pdf (4 pages, 626405 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
