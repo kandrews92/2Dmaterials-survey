@@ -12,6 +12,12 @@ S.~Cahangirov, M.~Topsakal, E.~Akt\"urk, H.~\ifmmode~\mbox{\c{S}}\else
   germanium.
 \newblock {\em Phys. Rev. Lett.}, 102:236804, Jun 2009.
 
+\bibitem{Castellanos2012}
+A.~Castellanos-Gomez, M.~Poot, G.~Steele, H.S.J. van~der Zant, N.~Agra\"{i}t,
+  and G.~Rubio-Bollinger.
+\newblock Elastic properties of freely suspended mos2 nanosheets.
+\newblock {\em Adv. Mater}, 24:772--775, 2012.
+
 \bibitem{Mascaro2001}
 C.D. Dimitrakopoulos and D.J. Mascaro.
 \newblock Organic thin-film transistors: A review of recent advances.
@@ -86,6 +92,12 @@ Murong Lang, Liang He, Faxian Xiu, Xinxin Yu, Jianshi Tang, Yong Wang, Xufeng
 \newblock {\em ACS Nano}, 6(1):295--302, 2012.
 \newblock PMID: 22147687.
 
+\bibitem{Lembke2015}
+Dominik Lembke, Simone Bertolazzi, and Andras Kis.
+\newblock Single-layer mos2 electronics.
+\newblock {\em Accounts of Chemical Research}, 48(1):100--110, 2015.
+\newblock PMID: 25555202.
+
 \bibitem{Lilienfeld1925}
 J.E. Lilienfeld.
 \newblock Us patent 174175, 1925.
@@ -155,6 +167,14 @@ O.~A. Shenderova, V.~V. Zhirnov, and D.~W. Brenner.
 \newblock Carbon nanostructures.
 \newblock {\em Critical Reviews in Solid State and Materials Sciences},
   27(3-4):227--356, 2002.
+
+\bibitem{Warlimont2009}
+M.~Spittel and T.~Spittel.
+\newblock 4.2 young's modulus of steel.
+\newblock In H.~Warlimont, editor, {\em Metal Forming Data of Ferrous Alloys -
+  deformation behaviour}, volume 2C1 of {\em Landolt-Börnstein - Group VIII
+  Advanced Materials and Technologies}, pages 85--88. Springer Berlin
+  Heidelberg, 2009.
 
 \bibitem{Splendiani2010}
 Andrea Splendiani, Liang Sun, Yuanbo Zhang, Tianshu Li, Jonghwan Kim, Chi-Yung
