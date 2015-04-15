@@ -1,9 +1,20 @@
 \begin{thebibliography}{10}
 
+\bibitem{2DflexibleNanoElectronics2014}
+Deji Akinwande, Nicholas Petron, and James Hone.
+\newblock Two-dimensional flexible nanoelectronics.
+\newblock {\em Nature Communications}, 5, 2014.
+
 \bibitem{Baughman2002}
 Ray~H. Baughman, Anvar~A. Zakhidov, and Walt~A. de~Heer.
 \newblock Carbon nanotubes--the route toward applications.
 \newblock {\em Science}, 297(5582):787--792, 2002.
+
+\bibitem{Bertolazzi2011}
+Simone Bertolazzi, Jacopo Brivio, and Andras Kis.
+\newblock Stretching and breaking of ultrathin mos2.
+\newblock {\em ACS Nano}, 5(12):9703--9709, 2011.
+\newblock PMID: 22087740.
 
 \bibitem{Cahangirov2009}
 S.~Cahangirov, M.~Topsakal, E.~Akt\"urk, H.~\ifmmode~\mbox{\c{S}}\else
@@ -18,6 +29,11 @@ A.~Castellanos-Gomez, M.~Poot, G.~Steele, H.S.J. van~der Zant, N.~Agra\"{i}t,
 \newblock Elastic properties of freely suspended mos2 nanosheets.
 \newblock {\em Adv. Mater}, 24:772--775, 2012.
 
+\bibitem{Dargys1994}
+A.~Dargys and J.~Kundrotas.
+\newblock {\em Handbook on physical properties of Ge, Si, GaAs, InP.}
+\newblock Science and Encyclopedia Publishers, Vilnius, Lithuania, 1994.
+
 \bibitem{Mascaro2001}
 C.D. Dimitrakopoulos and D.J. Mascaro.
 \newblock Organic thin-film transistors: A review of recent advances.
@@ -28,6 +44,11 @@ C.D. Dimitrakopoulos and D.J. Mascaro.
 M.~S. Dresselhaus and G.~Dresselhaus.
 \newblock Intercalation compounds of graphite.
 \newblock {\em Advances in Physics}, 51(1):1--186, 2002.
+
+\bibitem{Du2008}
+X.~Du, I.~Skachko, A.~Barker, and E.Y. Andrei.
+\newblock Approaching ballistic transport in suspedned graphene.
+\newblock {\em Nature Nanotech.}, 3:491--495, 2008.
 
 \bibitem{Geim2011}
 T.J. Echtermeyer, L.~Britnell, P.K. Jasnos, A.~Lombardo, R.V. Gorbachev, A.N.
@@ -58,6 +79,17 @@ F.~R. Gamble and B.~G. Silbernagel.
   superconducting intercalation complex tas2(nh3): Structural and bonding
   implications.
 \newblock {\em The Journal of Chemical Physics}, 63(6):2544--2552, 1975.
+
+\bibitem{vanderWaalsHeterostruct2013}
+A.K. Geim and I.V. Grigorieva.
+\newblock van der waals heterostructures.
+\newblock {\em Nature}, 499:419--425, 2013.
+
+\bibitem{Gere1997}
+James~M. Gere and 1878-1972 Timoshenko, Stephen~P.
+\newblock {\em Mechanics of materials}.
+\newblock Boston PWS Pub Co, 4th ed edition, 1997.
+\newblock Includes indexes.
 
 \bibitem{Giem2007}
 A.~K. Giem and K.~S. Novoselov.
