@@ -8,9 +8,9 @@
 \contentsline {subsection}{\numberline {A} The Discovery of Graphene}{1}{}
 \contentsline {subsection}{\numberline {B} Properties of Graphene}{1}{}
 \contentsline {section}{\numberline {III} Transition Metal Dichalcogenides}{2}{}
-\contentsline {subsection}{\numberline {A} Properties of \ch {MoS2}}{2}{}
+\contentsline {subsection}{\numberline {A} Properties of \ch {MoS2}}{3}{}
 \contentsline {section}{\numberline {IV} Mechanical Exfoliation and Characterization of \ch {MoS2} Nanosheets}{3}{}
-\contentsline {section}{\numberline {V} Applications of \ch {MoS2}}{4}{}
+\contentsline {section}{\numberline {V} Applications of \ch {MoS2} to Field Effect Transistors}{4}{}
 \contentsline {section}{\numberline {VI} State of the Art}{4}{}
 \contentsline {section}{\numberline {VII} Problems and Outlook}{4}{}
 \contentsline {section}{\numberline {}References}{4}{}
