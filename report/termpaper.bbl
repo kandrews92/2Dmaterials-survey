@@ -5,6 +5,11 @@ Deji Akinwande, Nicholas Petron, and James Hone.
 \newblock Two-dimensional flexible nanoelectronics.
 \newblock {\em Nature Communications}, 5, 2014.
 
+\bibitem{Ando1982}
+Tsuneya Ando, Alan~B. Fowler, and Frank Stern.
+\newblock Electronic properties of two-dimensional systems.
+\newblock {\em Rev. Mod. Phys.}, 54:437--672, Apr 1982.
+
 \bibitem{Baughman2002}
 Ray~H. Baughman, Anvar~A. Zakhidov, and Walt~A. de~Heer.
 \newblock Carbon nanotubes--the route toward applications.
@@ -16,12 +21,29 @@ Simone Bertolazzi, Jacopo Brivio, and Andras Kis.
 \newblock {\em ACS Nano}, 5(12):9703--9709, 2011.
 \newblock PMID: 22087740.
 
+\bibitem{acsnanoReview2013}
+Sheneve~Z. Butler, Shawna~M. Hollen, Linyou Cao, Yi~Cui, Jay~A. Gupta,
+  Humberto~R. Gutiérrez, Tony~F. Heinz, Seung~Sae Hong, Jiaxing Huang,
+  Ariel~F. Ismach, Ezekiel Johnston-Halperin, Masaru Kuno, Vladimir~V.
+  Plashnitsa, Richard~D. Robinson, Rodney~S. Ruoff, Sayeef Salahuddin, Jie
+  Shan, Li~Shi, Michael~G. Spencer, Mauricio Terrones, Wolfgang Windl, and
+  Joshua~E. Goldberger.
+\newblock Progress, challenges, and opportunities in two-dimensional materials
+  beyond graphene.
+\newblock {\em ACS Nano}, 7(4):2898--2926, 2013.
+\newblock PMID: 23464873.
+
 \bibitem{Cahangirov2009}
 S.~Cahangirov, M.~Topsakal, E.~Akt\"urk, H.~\ifmmode~\mbox{\c{S}}\else
   \c{S}\fi{}ahin, and S.~Ciraci.
 \newblock Two- and one-dimensional honeycomb structures of silicon and
   germanium.
 \newblock {\em Phys. Rev. Lett.}, 102:236804, Jun 2009.
+
+\bibitem{Gomez2010}
+A~Castellanos-Gomez, N~Agraït, and G~Rubio-Bollinger.
+\newblock Optical identification of atomically thin dichalcogenide crystals.
+\newblock {\em Applied Physics Letters}, 96(21):--, 2010.
 
 \bibitem{Castellanos2012}
 A.~Castellanos-Gomez, M.~Poot, G.~Steele, H.S.J. van~der Zant, N.~Agra\"{i}t,
@@ -141,6 +163,13 @@ Dominik Lembke, Simone Bertolazzi, and Andras Kis.
 \newblock {\em Accounts of Chemical Research}, 48(1):100--110, 2015.
 \newblock PMID: 25555202.
 
+\bibitem{Li2014}
+Hai Li, Jumiati Wu, Zongyou Yin, and Hua Zhang.
+\newblock Preparation and applications of mechanically exfoliated single-layer
+  and multilayer mos2 and wse2 nanosheets.
+\newblock {\em Accounts of Chemical Research}, 47(4):1067--1075, 2014.
+\newblock PMID: 24697842.
+
 \bibitem{Li2007}
 T.~Li and G.~Galli.
 \newblock Electronic properteis of mos2 nanoparticles.
@@ -199,6 +228,12 @@ K.S. Novoselov and A.K. Geim.
 B.~Radisavljevic, A.~Radenovic, J.~Brivio, V.~Giacometti, and A.~Kis.
 \newblock Single-layer mos2 transistors.
 \newblock {\em Nat. Nano.}, 6:147--150, 2011.
+
+\bibitem{Ridley1982}
+B~K Ridley.
+\newblock The electron-phonon interaction in quasi-two-dimensional
+  semiconductor quantum-well structures.
+\newblock {\em Journal of Physics C: Solid State Physics}, 15(28):5899, 1982.
 
 \bibitem{Schulz1999}
 Max Schulz.

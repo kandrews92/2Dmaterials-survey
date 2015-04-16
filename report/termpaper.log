@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  15 APR 2015 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  16 APR 2015 02:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1989,55 +1989,102 @@ File: ../figs/mos2bandgap.png Graphic file (type png)
 Package pdftex.def Info: ../figs/mos2bandgap.png used on input line 147.
 (pdftex.def)             Requested size: 106.70001pt x 128.03854pt.
 
-Underfull \hbox (badness 1460) in paragraph at lines 141--152
+Underfull \hbox (badness 1460) in paragraph at lines 141--154
 \OT1/cmr/m/n/10 make them ideal can-di-dates for elec-tronic ma-te-rial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--152
+Underfull \hbox (badness 10000) in paragraph at lines 141--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--152
+Underfull \hbox (badness 10000) in paragraph at lines 141--154
 
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 141--152
+Underfull \hbox (badness 1248) in paragraph at lines 141--154
 \OT1/cmr/m/n/10 con-duc-tion and va-lence bands. The va-lence band
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--154
+
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 141--154
+\OT1/cmr/m/n/10 Carrier mo-bil-ity in two-dimensional TMDs are af-
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 141--154
+\OT1/cmr/m/n/10 fected by scat-ter-ing. The amount by which the
  []
 
 [2 <../figs/multiDimGraphene.png> <../figs/grapheneBandGap.png>]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 152.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 154.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 152.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 154.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-(./termpaper.bbl [3 <../figs/mos2diagram.png> <../figs/mos2bandgap.png>]
+<../figs/exfoliation.png, id=33, 135.50626pt x 113.67468pt>
+File: ../figs/exfoliation.png Graphic file (type png)
+
+<use ../figs/exfoliation.png>
+Package pdftex.def Info: ../figs/exfoliation.png used on input line 160.
+(pdftex.def)             Requested size: 128.04166pt x 128.0398pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--165
+
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 156--165
+\OT1/cmr/m/n/10 To date, me-chan-i-cal ex-fo-li-a-tion re-mains the best
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--165
+
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 156--165
+ \OT1/cmr/m/n/10 De-terming the size syn-the-sized two-dimensional
+ []
+
+[3 <../figs/mos2diagram.png> <../figs/mos2bandgap.png>] (./termpaper.bbl
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no © in font cmr9!
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ¯ in font cmr9!
+
+[4 <../figs/exfoliation.png>]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
 
-Underfull \hbox (badness 1406) in paragraph at lines 159--163
+Underfull \hbox (badness 1406) in paragraph at lines 188--192
  []\OT1/cmr/m/n/9 Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio
  []
 
 Missing character: There is no Ã in font cmti9!
 Missing character: There is no ¶ in font cmti9!
-[4]) [5] (./termpaper.aux) ) 
+[5]) [6] (./termpaper.aux) ) 
 Here is how much of TeX's memory you used:
- 22607 strings out of 493109
- 445578 string characters out of 6138587
- 497034 words of memory out of 5000000
- 25701 multiletter control sequences out of 15000+600000
+ 22633 strings out of 493109
+ 446075 string characters out of 6138587
+ 491127 words of memory out of 5000000
+ 25726 multiletter control sequences out of 15000+600000
  18321 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,9n,69p,10424b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,9n,69p,10424b,540s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2014/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
@@ -2053,10 +2100,10 @@ texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/201
 ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2014/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti9.pfb>
-Output written on termpaper.pdf (5 pages, 651100 bytes).
+Output written on termpaper.pdf (6 pages, 693204 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 101 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
