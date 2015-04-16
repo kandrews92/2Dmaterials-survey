@@ -102,6 +102,11 @@ E.~Gourmelon, O.~Lignier, H.~Hadouda, G.~Couturier, J.C. Bernedea, J.~Teddb,
 \newblock Ms2 (m = mo, w) photosensitive thin films for solar cells.
 \newblock {\em Solar Energy Materials and Solar Cells}, 46:115--121, 1997.
 
+\bibitem{Kohn1964}
+P.~{Hohenberg} and W.~{Kohn}.
+\newblock {Inhomogeneous Electron Gas}.
+\newblock {\em Physical Review}, 136:864--871, nov 1964.
+
 \bibitem{iijimaCarbonNanotubes1991}
 Sumio Iijima.
 \newblock Helical microtubules of graphitic carbon.
@@ -110,6 +115,12 @@ Sumio Iijima.
 \bibitem{Atalla1960}
 D.~Kahng and M.~Atalla.
 \newblock Us patents 3206670 and 3102230, 1960.
+
+\bibitem{Kam1982}
+K.~Kam and B.A. Parkinson.
+\newblock Detailed photocurrent spectroscopy of the semiconducting group-vi
+  transition-metal dichalcogenides.
+\newblock {\em J. Phys. Chem.}, 86:463--467, 1982.
 
 \bibitem{krotoFullerenes1985}
 H.~W. Kroto, J.~R. Heath, S.~C. O'Brien, R.~F. Curl, and R.~E. Smalley.
@@ -129,6 +140,11 @@ Dominik Lembke, Simone Bertolazzi, and Andras Kis.
 \newblock Single-layer mos2 electronics.
 \newblock {\em Accounts of Chemical Research}, 48(1):100--110, 2015.
 \newblock PMID: 25555202.
+
+\bibitem{Li2007}
+T.~Li and G.~Galli.
+\newblock Electronic properteis of mos2 nanoparticles.
+\newblock {\em J. Phys. Chem. C}, 111:3042--3047, 2007.
 
 \bibitem{Lilienfeld1925}
 J.E. Lilienfeld.
@@ -184,11 +200,6 @@ B.~Radisavljevic, A.~Radenovic, J.~Brivio, V.~Giacometti, and A.~Kis.
 \newblock Single-layer mos2 transistors.
 \newblock {\em Nat. Nano.}, 6:147--150, 2011.
 
-\bibitem{Naveh2011}
-Ashwin Ramasubramaniam, Doron Naveh, and Elias Towe.
-\newblock Tunable band gaps in bilayer transition-metal dichalcogenides.
-\newblock {\em Phys. Rev. B}, 84:205325, Nov 2011.
-
 \bibitem{Schulz1999}
 Max Schulz.
 \newblock The end of the road for silicon?
@@ -231,6 +242,13 @@ Feng Wang, Yuanbo Zhang, Chuanshan Tian, Caglar Girit, Alex Zettl, Michael
   Crommie, and Y.~Ron Shen.
 \newblock Gate-variable optical transitions in graphene.
 \newblock {\em Science}, 320(5873):206--209, 2008.
+
+\bibitem{Wang2012a}
+Qing~Hua Wang, Kourosh Kalantar-Zadeh, Andras Kis, Jonathan~N. Coleman, and
+  Michael~S. Strano.
+\newblock Electronics and optoelectronics of two-dimensional transition metal
+  dichalogenides.
+\newblock {\em Nature Nanotechnology}, 7:699--712, 2012.
 
 \bibitem{Williams2007}
 J.~R. Williams, L.~DiCarlo, and C.~M. Marcus.

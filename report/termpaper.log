@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  15 APR 2015 13:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  15 APR 2015 23:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1975,83 +1975,88 @@ LaTeX Warning: A float is stuck (cannot be placed) on input line 130.
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
+<../figs/mos2diagram.png, id=22, 383.93437pt x 152.82094pt>
+File: ../figs/mos2diagram.png Graphic file (type png)
 
-Underfull \hbox (badness 1460) in paragraph at lines 136--140
+<use ../figs/mos2diagram.png>
+Package pdftex.def Info: ../figs/mos2diagram.png used on input line 135.
+(pdftex.def)             Requested size: 199.17249pt x 85.35759pt.
+
+<../figs/mos2bandgap.png, id=23, 173.14688pt x 188.95593pt>
+File: ../figs/mos2bandgap.png Graphic file (type png)
+
+<use ../figs/mos2bandgap.png>
+Package pdftex.def Info: ../figs/mos2bandgap.png used on input line 147.
+(pdftex.def)             Requested size: 106.70001pt x 128.03854pt.
+
+Underfull \hbox (badness 1460) in paragraph at lines 141--152
 \OT1/cmr/m/n/10 make them ideal can-di-dates for elec-tronic ma-te-rial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--140
+Underfull \hbox (badness 10000) in paragraph at lines 141--152
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--140
+Underfull \hbox (badness 10000) in paragraph at lines 141--152
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--140
-
+Underfull \hbox (badness 1248) in paragraph at lines 141--152
+\OT1/cmr/m/n/10 con-duc-tion and va-lence bands. The va-lence band
  []
 
 [2 <../figs/multiDimGraphene.png> <../figs/grapheneBandGap.png>]
-<../figs/mos2diagram.png, id=31, 383.93437pt x 152.82094pt>
-File: ../figs/mos2diagram.png Graphic file (type png)
 
-<use ../figs/mos2diagram.png>
-Package pdftex.def Info: ../figs/mos2diagram.png used on input line 143.
-(pdftex.def)             Requested size: 199.17249pt x 85.35759pt.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 152.
 
-<../figs/mos2bandgap.png, id=32, 173.14688pt x 188.95593pt>
-File: ../figs/mos2bandgap.png Graphic file (type png)
 
-<use ../figs/mos2bandgap.png>
-Package pdftex.def Info: ../figs/mos2bandgap.png used on input line 149.
-(pdftex.def)             Requested size: 106.70001pt x 128.03854pt.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 152.
 
-Underfull \hbox (badness 1147) in paragraph at lines 171--171
-[]\OT1/cmr/m/n/9 TABLE I. Ta-ble of en-er-gies for mono-layer and bi-layer
- []
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
 (./termpaper.bbl [3 <../figs/mos2diagram.png> <../figs/mos2bandgap.png>]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
 
-Underfull \hbox (badness 1406) in paragraph at lines 143--147
+Underfull \hbox (badness 1406) in paragraph at lines 159--163
  []\OT1/cmr/m/n/9 Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio
  []
 
 Missing character: There is no Ã in font cmti9!
 Missing character: There is no ¶ in font cmti9!
-) [4] (./termpaper.aux) ) 
+[4]) [5] (./termpaper.aux) ) 
 Here is how much of TeX's memory you used:
- 22603 strings out of 493109
- 445499 string characters out of 6138587
- 491000 words of memory out of 5000000
- 25697 multiletter control sequences out of 15000+600000
+ 22607 strings out of 493109
+ 445578 string characters out of 6138587
+ 497034 words of memory out of 5000000
+ 25701 multiletter control sequences out of 15000+600000
  18321 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,15n,69p,10424b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
-6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/20
-14/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2014/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
-fb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texl
-ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2014/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2014/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmti9.pfb>
-Output written on termpaper.pdf (4 pages, 641340 bytes).
+ 62i,9n,69p,10424b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2014/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
+c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2014/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2014/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2014/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2014/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmti9.pfb>
+Output written on termpaper.pdf (5 pages, 651100 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 96 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
