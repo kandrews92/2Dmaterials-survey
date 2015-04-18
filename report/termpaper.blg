@@ -6,45 +6,45 @@ Database file #1: termpaperNotes.bib
 Database file #2: ../bibs/refs.bib
 Warning--entry type for "Kim2011" isn't style-file defined
 --line 1051 of file ../bibs/refs.bib
-You've used 60 entries,
+You've used 59 entries,
             2118 wiz_defined-function locations,
-            934 strings with 14799 characters,
-and the built_in function-call counts, 22424 in all, are:
-= -- 2106
-> -- 1352
+            928 strings with 14674 characters,
+and the built_in function-call counts, 22106 in all, are:
+= -- 2074
+> -- 1339
 < -- 2
-+ -- 539
-- -- 471
-* -- 1839
-:= -- 3884
-add.period$ -- 187
-call.type$ -- 60
-change.case$ -- 413
++ -- 534
+- -- 467
+* -- 1817
+:= -- 3830
+add.period$ -- 184
+call.type$ -- 59
+change.case$ -- 408
 chr.to.int$ -- 0
-cite$ -- 60
-duplicate$ -- 661
-empty$ -- 1551
-format.name$ -- 471
-if$ -- 4517
+cite$ -- 59
+duplicate$ -- 650
+empty$ -- 1525
+format.name$ -- 467
+if$ -- 4450
 int.to.chr$ -- 0
-int.to.str$ -- 60
-missing$ -- 60
-newline$ -- 309
-num.names$ -- 122
-pop$ -- 326
+int.to.str$ -- 59
+missing$ -- 59
+newline$ -- 304
+num.names$ -- 120
+pop$ -- 323
 preamble$ -- 1
-purify$ -- 355
+purify$ -- 351
 quote$ -- 0
-skip$ -- 448
+skip$ -- 440
 stack$ -- 0
-substring$ -- 1409
-swap$ -- 69
+substring$ -- 1383
+swap$ -- 68
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 234
+type$ -- 230
 warning$ -- 0
-while$ -- 181
-width$ -- 62
-write$ -- 673
+while$ -- 178
+width$ -- 61
+write$ -- 662
 (There was 1 warning)

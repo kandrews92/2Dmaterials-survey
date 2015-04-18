@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  18 APR 2015 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  18 APR 2015 16:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2117,11 +2117,6 @@ Underfull \hbox (badness 1048) in paragraph at lines 119--126
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 119--126
-\OT1/cmr/m/n/10 on tem-per-a-ture, but the most com-monly mea-sured
- []
-
-
 Underfull \hbox (badness 2142) in paragraph at lines 119--126
 \OT1/cmr/m/n/10 re-search also in-cludes graphene-like nano ma-te-ri-als
  []
@@ -2275,7 +2270,7 @@ Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
  [5 <../figs/mos2fetSchematic.png>]
-Underfull \hbox (badness 1406) in paragraph at lines 206--210
+Underfull \hbox (badness 1406) in paragraph at lines 201--205
  []\OT1/cmr/m/n/9 Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio
  []
 
@@ -2283,10 +2278,10 @@ Missing character: There is no Ã in font cmti9!
 Missing character: There is no ¶ in font cmti9!
 [6]) [7] (./termpaper.aux) ) 
 Here is how much of TeX's memory you used:
- 25173 strings out of 493109
- 522134 string characters out of 6138587
- 540673 words of memory out of 5000000
- 28237 multiletter control sequences out of 15000+600000
+ 25169 strings out of 493109
+ 521995 string characters out of 6138587
+ 541657 words of memory out of 5000000
+ 28233 multiletter control sequences out of 15000+600000
  22631 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,13n,69p,10392b,1041s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2307,7 +2302,7 @@ ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2014/texmf-dist/fonts
 lic/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti9.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm090
 0.pfb>
-Output written on termpaper.pdf (7 pages, 812715 bytes).
+Output written on termpaper.pdf (7 pages, 812198 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
