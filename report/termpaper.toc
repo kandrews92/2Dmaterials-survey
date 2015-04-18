@@ -11,6 +11,5 @@
 \contentsline {subsection}{\numberline {A} Properties of \ch {MoS2}}{3}{}
 \contentsline {section}{\numberline {IV} Mechanical Exfoliation and Characterization of \ch {MoS2} Nanosheets}{3}{}
 \contentsline {section}{\numberline {V} Applications of \ch {MoS2} to Field Effect Transistors}{4}{}
-\contentsline {section}{\numberline {VI} State of the Art}{4}{}
-\contentsline {section}{\numberline {VII} Problems and Outlook}{4}{}
-\contentsline {section}{\numberline {}References}{4}{}
+\contentsline {section}{\numberline {VI} Conclusions and Future Work}{5}{}
+\contentsline {section}{\numberline {}References}{5}{}

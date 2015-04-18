@@ -4,44 +4,47 @@ The top-level auxiliary file: termpaper.aux
 The style file: plain.bst
 Database file #1: termpaperNotes.bib
 Database file #2: ../bibs/refs.bib
-You've used 57 entries,
+Warning--entry type for "Kim2011" isn't style-file defined
+--line 1051 of file ../bibs/refs.bib
+You've used 60 entries,
             2118 wiz_defined-function locations,
-            916 strings with 14192 characters,
-and the built_in function-call counts, 21376 in all, are:
-= -- 2010
-> -- 1288
+            934 strings with 14799 characters,
+and the built_in function-call counts, 22424 in all, are:
+= -- 2106
+> -- 1352
 < -- 2
-+ -- 513
-- -- 449
-* -- 1756
-:= -- 3705
-add.period$ -- 178
-call.type$ -- 57
-change.case$ -- 393
++ -- 539
+- -- 471
+* -- 1839
+:= -- 3884
+add.period$ -- 187
+call.type$ -- 60
+change.case$ -- 413
 chr.to.int$ -- 0
-cite$ -- 57
-duplicate$ -- 632
-empty$ -- 1475
-format.name$ -- 449
-if$ -- 4305
+cite$ -- 60
+duplicate$ -- 661
+empty$ -- 1551
+format.name$ -- 471
+if$ -- 4517
 int.to.chr$ -- 0
-int.to.str$ -- 57
-missing$ -- 58
-newline$ -- 294
-num.names$ -- 116
-pop$ -- 306
+int.to.str$ -- 60
+missing$ -- 60
+newline$ -- 309
+num.names$ -- 122
+pop$ -- 326
 preamble$ -- 1
-purify$ -- 338
+purify$ -- 355
 quote$ -- 0
-skip$ -- 426
+skip$ -- 448
 stack$ -- 0
-substring$ -- 1348
-swap$ -- 66
+substring$ -- 1409
+swap$ -- 69
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 222
+type$ -- 234
 warning$ -- 0
-while$ -- 173
-width$ -- 59
-write$ -- 641
+while$ -- 181
+width$ -- 62
+write$ -- 673
+(There was 1 warning)

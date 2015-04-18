@@ -113,6 +113,13 @@ James~M. Gere and 1878-1972 Timoshenko, Stephen~P.
 \newblock Boston PWS Pub Co, 4th ed edition, 1997.
 \newblock Includes indexes.
 
+\bibitem{Ghatak2011}
+Subhamoy Ghatak, Atindra~Nath Pal, and Arindam Ghosh.
+\newblock Nature of electronic states in atomically thin mos2 field-effect
+  transistors.
+\newblock {\em ACS Nano}, 5(10):7707--7712, 2011.
+\newblock PMID: 21902203.
+
 \bibitem{Giem2007}
 A.~K. Giem and K.~S. Novoselov.
 \newblock The rise of graphene.
@@ -134,6 +141,13 @@ Sumio Iijima.
 \newblock Helical microtubules of graphitic carbon.
 \newblock {\em Nature}, 354:56--58, 1991.
 
+\bibitem{Kaasbjerg2013}
+Kristen Kaasbjerg, Kristian~S. Thygesen, and Antti-Pekka Jauho.
+\newblock Acoustic phonon limited mobility in two-dimensional semiconductors:
+  Deformation potential and piezoelectric scattering in monolayer mos${}_{2}$
+  from first principles.
+\newblock {\em Phys. Rev. B}, 87:235312, Jun 2013.
+
 \bibitem{Atalla1960}
 D.~Kahng and M.~Atalla.
 \newblock Us patents 3206670 and 3102230, 1960.
@@ -143,6 +157,10 @@ K.~Kam and B.A. Parkinson.
 \newblock Detailed photocurrent spectroscopy of the semiconducting group-vi
   transition-metal dichalcogenides.
 \newblock {\em J. Phys. Chem.}, 86:463--467, 1982.
+
+\bibitem{Kim2011}
+Kinam Kim, Jae-Young Choi, Taek Kim, Seong-Ho Cho, and Hyun-Jong Chung.
+\newblock A role for graphene in silicon-based semiconductor devices, 2011.
 
 \bibitem{krotoFullerenes1985}
 H.~W. Kroto, J.~R. Heath, S.~C. O'Brien, R.~F. Curl, and R.~E. Smalley.

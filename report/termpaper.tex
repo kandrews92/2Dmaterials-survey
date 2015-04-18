@@ -39,7 +39,7 @@ pra,
 %prstper,
 floatfix,
 ]{revtex4-1}
-
+\usepackage{siunitx}
 \usepackage{physics}
 \usepackage{graphicx}% Include figure files
 \usepackage{dcolumn}% Align table columns on decimal point
@@ -165,23 +165,28 @@ Determing the size synthesized two-dimensional materials is inherently challengi
 
 \section{\label{sec:mos2_applications} Applications of \ch{MoS2} to Field Effect Transistors}
 \ch{MoS2} exhibits unique properties that make it an interesting candidate for several applications. Some of these applications include optoelectronic devices, namely devices that can interact with, detect, or control light. The electronic structure of \ch{MoS2} is what makes it interesting for this application. In addition, \ch{MoS2} is of interest for molecular sensing applications \cite{Wang2012a}. As compared to graphene, \ch{MoS2} is appealing in this context because of the natural band gap and as a result it is an an ideal candidate for use in field effect transistors (FETs). \\ \\
-FETs are the most fundamental component of modern electronic circuits. These components are used primarily as a switch in digital circuits. Typically, FETs are composed of a source, drain, gate, and often a substrate. The source is where the carriers enter the channel, the drain is where carriers leave the channel, the gate regulates the channel conductivity, and the substrate serves mainly to bias the transistor into operation \cite{Millman1991}. The channel material...
+FETs are the most fundamental component of modern electronic circuits. These components are used primarily as a switch in digital circuits.  Typically, FETs are composed of a source and a drain that serve as contacts for the channel, the area that connects them \cite{Millman1991}. The channel has thin dieletric coating and has a metal electrode at the top, the top gate. By changing the carrier density through the use of this electrode one can control the channel's conductivity. Fig.\ref{fig:mos2fet} shows a schematic of a single-layer \ch{MoS2} FET, illustrating the positioning of the drain, source, top gate, and the commonly used \ch{SiO2}/\ch{Si} substrate. One of the ideal properties for a transistor channel would include high charge carrier mobility, a higher mobility would allow for fast switching between on and off states \cite{Lembke2015}. Another property that is necessary for use in transistors is the presence of a band gap, which eliminates the use of graphene, even though it exhibits high mobility the lack of a band gap does not allow for the fabrication of transistors that could be switched on or off. \\ \\
 \begin{figure}
 \includegraphics[width=6cm,height=4cm]{../figs/mos2fet}
 \caption{Schematic view of a \ch{MoS2} transistor with \ch{Au} leads and encapsulated in $30 \mathrm{\,nm}$ thick high $\kappa$ dieletric \ch{HfO2} acting as a top-gate dielectric \cite{Kis2011, Lembke2015}.}
 \label{fig:mos2fet}
 \end{figure}
-
 \begin{figure}
 \includegraphics[width=4cm,height=6cm]{../figs/mos2fetAFM}
 \caption{The top image is an AFM image of single layer \ch{MoS2}, the bottom image is the corresponding height profile \cite{Lembke2015}.}
 \label{fig:mos2profile}
 \end{figure}
+The use of gate dielectric is of importance in FETs in the context of mobility. Electrical measurements of single layer \ch{MoS2} have shown a room temperature mobility in the range of $0.5-3\mathrm{\,cm^2}\mathrm{V}^{-1}\mathrm{s}^{-1}$, whereas the mobility of bulk \ch{MoS2} under room temperature conditions is measured in the range of $200-500\mathrm{\,cm}^{2}\mathrm{V}^{-1}\mathrm{s}^{-1}$ \cite{novoselovEtAl2005, Ghatak2011, Fivaz1967}. However, by using \ch{HfO2}, a material that has a high $\kappa$, the room temperature mobility of single layer \ch{MoS2} can be increased to around $200 \mathrm{\,cm}^{-1}\mathrm{V}^{-1}\mathrm{s}^{-1}$. In addition, this device showed a current on/off ratio near $10^8$ \cite{Kis2011}. Here on/off ratio is referring to the ratio of value of current needed for the device to be considered switched on as compared to the value of current needed for the device to be considered switched off. The reported mobility of monolayer \ch{MoS2} is much lower than that of graphene or \ch{Si} \cite{Kim2011}. This fact presents a problem for use in high-performance applications that could limit the use of \ch{MoS2} to low power devices.\\ \\
+\begin{figure}
+\includegraphics[width=7cm, height=4cm]{../figs/mos2fetSchematic}
+\caption{A cross-sectional view of the monolayer \ch{MoS2} FET of thickness $\SI{6.5}{\angstrom}$. The monolayer is separated from the top gate by $30\mathrm{\,nm}$ of \ch{HfO2} \cite{grapheneLike2Dreview2013}.}
+\label{fig:mos2fetSchematic}
+\end{figure}
 
-\section{\label{sec:state_of_the_art} State of the Art}
-
-\section{\label{sec:problems_and_outlook} Problems and Outlook}
-
+\section{\label{sec:problems_and_outlook} Conclusions and Future Work}
+The field of condensed matter physics as it pertains to two-dimensional materials has grown rapidly in the previous years. Graphene offers some potential applications based upon its unique properties. However, the lack of a band gap led researchers to search for other materials that would allow the devices it comprised to be switched on and off. This, in part, renewed research in TMDs, and among them \ch{MoS2}, which had previously been studied to some extent. \\ \\
+\ch{MoS2} has an electronic structure that is interesting, the band gap for few-layer \ch{MoS2} is indirect and the band gap increases and becomes a direct band gap for monolayer \ch{MoS2}. In addition, \ch{MoS2} exhibits high current on/off ratios. The presence of a relatively large band gap and a high current on/off ratio led to the study of \ch{MoS2} as a material in FET channels. \\ \\
+To date, there is much ongoing research that looks to address some of problems that still remain in the study of \ch{MoS2} as a two-dimensional material and its applications. One such problem that needs to be addressed in the coming years is improvements in mobility. The low mobility measurements in \ch{MoS2} FETs are limits to the applications such FETs can be used for. Theoretial predictions show that mobility could still be imporved significantly \cite{Kaasbjerg2013}. Much of the challenge in this problem lies in decreasing the scattering. 
 
 \bibliographystyle{plain}
 \bibliography{../bibs/refs}
