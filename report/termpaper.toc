@@ -5,8 +5,7 @@
 \tocdepth@restore 
 \contentsline {section}{\numberline {I} Introduction}{1}{}
 \contentsline {section}{\numberline {II} Graphene as a New Two-Dimensional Material}{1}{}
-\contentsline {subsection}{\numberline {A} The Discovery of Graphene}{1}{}
-\contentsline {subsection}{\numberline {B} Properties of Graphene}{1}{}
+\contentsline {subsection}{\numberline {A} Properties of Graphene}{1}{}
 \contentsline {section}{\numberline {III} Transition Metal Dichalcogenides}{2}{}
 \contentsline {subsection}{\numberline {A} Properties of \ch {MoS2}}{3}{}
 \contentsline {section}{\numberline {IV} Mechanical Exfoliation and Characterization of \ch {MoS2} Nanosheets}{3}{}

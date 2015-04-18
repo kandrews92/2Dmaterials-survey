@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  18 APR 2015 12:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.11.6)  18 APR 2015 15:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2072,240 +2072,197 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 63.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \c__siunitx_mathtt_int=\count185
- (./termpaper.toc)
-\tf@toc=\write5
-\openout5 = `termpaper.toc'.
-
-
-Underfull \hbox (badness 1715) in paragraph at lines 101--103
-\OT1/cmr/m/n/10 and have be-come un-avoid-able through-out ev-ery-day
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--103
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--103
-
- []
-
-
-Underfull \hbox (badness 1515) in paragraph at lines 104--105
-\OT1/cmr/m/n/10 i-cal stud-ies in-volv-ing the use of a sin-gle layer of
- []
 
 <../figs/multiDimGraphene.png, id=4, 357.335pt x 314.17375pt>
 File: ../figs/multiDimGraphene.png Graphic file (type png)
 
 <use ../figs/multiDimGraphene.png>
-Package pdftex.def Info: ../figs/multiDimGraphene.png used on input line 108.
+Package pdftex.def Info: ../figs/multiDimGraphene.png used on input line 104.
 (pdftex.def)             Requested size: 142.2608pt x 142.26375pt.
 
 <../figs/grapheneBandGap.png, id=6, 549.55313pt x 239.39438pt>
 File: ../figs/grapheneBandGap.png Graphic file (type png)
 
 <use ../figs/grapheneBandGap.png>
-Package pdftex.def Info: ../figs/grapheneBandGap.png used on input line 116.
+Package pdftex.def Info: ../figs/grapheneBandGap.png used on input line 112.
 (pdftex.def)             Requested size: 170.7119pt x 85.35635pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--130
+Underfull \hbox (badness 10000) in paragraph at lines 119--126
 
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 123--130
-\OT1/cmr/m/n/10 For ap-pli-ca-tions to elec-tron-ics a ma-te-rial's band
+Underfull \hbox (badness 2970) in paragraph at lines 119--126
+\OT1/cmr/m/n/10 For ap-pli-ca-tions to elec-tron-ics, a ma-te-rial's band
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 123--130
+Underfull \hbox (badness 2608) in paragraph at lines 119--126
 \OT1/cmr/m/n/10 po-ten-tial for electronic-photonic de-vice ap-pli-ca-tions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--130
+Underfull \hbox (badness 10000) in paragraph at lines 119--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--130
+Underfull \hbox (badness 10000) in paragraph at lines 119--126
 
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 123--130
+Underfull \hbox (badness 1048) in paragraph at lines 119--126
 \OT1/cmr/m/n/10 The mo-bil-ity in graphene is an-other prop-erty that
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 123--130
+Underfull \hbox (badness 1077) in paragraph at lines 119--126
 \OT1/cmr/m/n/10 on tem-per-a-ture, but the most com-monly mea-sured
  []
 
-[1{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 130.
+Underfull \hbox (badness 2142) in paragraph at lines 119--126
+\OT1/cmr/m/n/10 re-search also in-cludes graphene-like nano ma-te-ri-als
+ []
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 130.
+Underfull \hbox (badness 1314) in paragraph at lines 119--126
+\OT1/cmr/m/n/10 two-dimensional ma-te-ri-als are be-com-ing in-creas-ingly
+ []
+
+[1{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../figs/multi
+DimGraphene.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 126.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 126.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-<../figs/mos2diagram.png, id=22, 383.93437pt x 152.82094pt>
+<../figs/mos2diagram.png, id=24, 383.93437pt x 152.82094pt>
 File: ../figs/mos2diagram.png Graphic file (type png)
 
 <use ../figs/mos2diagram.png>
-Package pdftex.def Info: ../figs/mos2diagram.png used on input line 135.
+Package pdftex.def Info: ../figs/mos2diagram.png used on input line 131.
 (pdftex.def)             Requested size: 199.17249pt x 85.35759pt.
 
-<../figs/mos2bandgap.png, id=23, 173.14688pt x 188.95593pt>
+<../figs/mos2bandgap.png, id=25, 173.14688pt x 188.95593pt>
 File: ../figs/mos2bandgap.png Graphic file (type png)
 
 <use ../figs/mos2bandgap.png>
-Package pdftex.def Info: ../figs/mos2bandgap.png used on input line 147.
+Package pdftex.def Info: ../figs/mos2bandgap.png used on input line 143.
 (pdftex.def)             Requested size: 106.70001pt x 128.03854pt.
 
-Underfull \hbox (badness 1460) in paragraph at lines 141--154
-\OT1/cmr/m/n/10 make them ideal can-di-dates for elec-tronic ma-te-rial
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--154
+Underfull \hbox (badness 10000) in paragraph at lines 137--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--154
+Underfull \hbox (badness 6493) in paragraph at lines 137--150
+\OT1/cmr/m/n/10 Like graphene, and many other two-dimensional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--150
 
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 141--154
+Underfull \hbox (badness 1248) in paragraph at lines 137--150
 \OT1/cmr/m/n/10 con-duc-tion and va-lence bands. The va-lence band
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--154
+Underfull \hbox (badness 10000) in paragraph at lines 137--150
 
  []
 
 
-Underfull \hbox (badness 1968) in paragraph at lines 141--154
+Underfull \hbox (badness 1968) in paragraph at lines 137--150
 \OT1/cmr/m/n/10 Carrier mo-bil-ity in two-dimensional TMDs are af-
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 141--154
+Underfull \hbox (badness 1824) in paragraph at lines 137--150
 \OT1/cmr/m/n/10 fected by scat-ter-ing. The amount by which the
  []
 
-[2 <../figs/multiDimGraphene.png> <../figs/grapheneBandGap.png>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 154.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 154.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-<../figs/exfoliation.png, id=32, 135.50626pt x 113.67468pt>
+[2 <../figs/grapheneBandGap.png> <../figs/mos2diagram.png>]
+<../figs/exfoliation.png, id=34, 135.50626pt x 113.67468pt>
 File: ../figs/exfoliation.png Graphic file (type png)
 
 <use ../figs/exfoliation.png>
-Package pdftex.def Info: ../figs/exfoliation.png used on input line 160.
+Package pdftex.def Info: ../figs/exfoliation.png used on input line 156.
 (pdftex.def)             Requested size: 128.04166pt x 128.0398pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--165
+Underfull \hbox (badness 10000) in paragraph at lines 152--161
 
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 156--165
+Underfull \hbox (badness 3281) in paragraph at lines 152--161
 \OT1/cmr/m/n/10 To date, me-chan-i-cal ex-fo-li-a-tion re-mains the best
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--165
+Underfull \hbox (badness 10000) in paragraph at lines 152--161
 
  []
 
-
-Underfull \hbox (badness 2165) in paragraph at lines 156--165
- \OT1/cmr/m/n/10 De-terming the size syn-the-sized two-dimensional
- []
-
-[3 <../figs/mos2diagram.png> <../figs/mos2bandgap.png>]
+[3 <../figs/mos2bandgap.png>]
 <../figs/mos2fet.png, id=41, 188.20313pt x 145.29282pt>
 File: ../figs/mos2fet.png Graphic file (type png)
 
 <use ../figs/mos2fet.png>
-Package pdftex.def Info: ../figs/mos2fet.png used on input line 170.
+Package pdftex.def Info: ../figs/mos2fet.png used on input line 166.
 (pdftex.def)             Requested size: 170.72807pt x 113.81345pt.
 
-<../figs/mos2fetAFM.png, id=42, 210.03468pt x 217.5628pt>
-File: ../figs/mos2fetAFM.png Graphic file (type png)
-
-<use ../figs/mos2fetAFM.png>
-Package pdftex.def Info: ../figs/mos2fetAFM.png used on input line 175.
-(pdftex.def)             Requested size: 113.81123pt x 170.72742pt.
-
-<../figs/mos2fetSchematic.png, id=43, 310.91156pt x 155.83218pt>
+<../figs/mos2fetSchematic.png, id=42, 310.91156pt x 155.83218pt>
 File: ../figs/mos2fetSchematic.png Graphic file (type png)
 
 <use ../figs/mos2fetSchematic.png>
-Package pdftex.def Info: ../figs/mos2fetSchematic.png used on input line 181.
+Package pdftex.def Info: ../figs/mos2fetSchematic.png used on input line 177.
 (pdftex.def)             Requested size: 199.16772pt x 113.81361pt.
 
-Underfull \hbox (badness 1490) in paragraph at lines 167--185
+Underfull \hbox (badness 1490) in paragraph at lines 163--181
 \OT1/cmr/m/n/10 of these ap-pli-ca-tions in-clude op-to-elec-tronic de-vices,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--185
+Underfull \hbox (badness 10000) in paragraph at lines 163--181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--185
+Underfull \hbox (badness 10000) in paragraph at lines 163--181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--185
+Underfull \hbox (badness 10000) in paragraph at lines 163--181
 
  []
 
 [4 <../figs/exfoliation.png> <../figs/mos2fet.png>]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 185.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 185.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-
-Underfull \hbox (badness 1817) in paragraph at lines 187--190
+Underfull \hbox (badness 1817) in paragraph at lines 183--186
 \OT1/cmr/m/n/10 to two-dimensional ma-te-ri-als has grown rapidly in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--190
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
 
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 187--190
+Underfull \hbox (badness 1997) in paragraph at lines 183--186
 \OT1/cmr/m/n/10 MoS[] has an elec-tronic struc-ture that is in-ter-est-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--190
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
 
  []
 
@@ -2314,48 +2271,46 @@ Missing character: There is no Ã in font cmr9!
 Missing character: There is no © in font cmr9!
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no ¯ in font cmr9!
- [5 <../figs/mos2fetAFM.png> <../figs/mos2fetSchematic.png>]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
-
+ [5 <../figs/mos2fetSchematic.png>]
 Underfull \hbox (badness 1406) in paragraph at lines 206--210
  []\OT1/cmr/m/n/9 Ruben Mas-Balleste, Cristina Gomez-Navarro, Julio
  []
 
-[6]
 Missing character: There is no Ã in font cmti9!
 Missing character: There is no ¶ in font cmti9!
-) [7] (./termpaper.aux) ) 
+[6]) [7] (./termpaper.aux) ) 
 Here is how much of TeX's memory you used:
- 25197 strings out of 493109
- 522538 string characters out of 6138587
- 541769 words of memory out of 5000000
- 28257 multiletter control sequences out of 15000+600000
+ 25173 strings out of 493109
+ 522134 string characters out of 6138587
+ 540673 words of memory out of 5000000
+ 28237 multiletter control sequences out of 15000+600000
  22631 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,13n,69p,10392b,1041s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/c
-m-super-ts1.enc}<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
-12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><c:
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2014/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi9.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2014
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2014/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2014/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmti9.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0900.p
-fb>
-Output written on termpaper.pdf (7 pages, 900307 bytes).
+{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-supe
+r/cm-super-ts1.enc}<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb>
+<c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texliv
+e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2014/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2014/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c
+:/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2014/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2014/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2014/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy7.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti9.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm090
+0.pfb>
+Output written on termpaper.pdf (7 pages, 812715 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
+ 115 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
