@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Fuhrer(2010)]{Fuhrer2010}
+M.S. Fuhrer.
+\newblock Graphene: Ribbions piece-by-piece.
+\newblock \emph{Nature Materials}, 9:\penalty0 611--612, 2010.
+
+\end{thebibliography}
