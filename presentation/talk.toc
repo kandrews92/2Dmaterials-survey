@@ -1,6 +1,8 @@
 \beamer@endinputifotherversion {3.33pt}
 \select@language {english}
 \beamer@sectionintoc {1}{Origins and Discovery of Graphene}{3}{0}{1}
-\beamer@sectionintoc {2}{\ch {MoS2} as Materials Beyond Graphene}{6}{0}{2}
-\beamer@sectionintoc {3}{Applications of \ch {MoS2} in FETs}{9}{0}{3}
-\beamer@sectionintoc {4}{Conclusion}{11}{0}{4}
+\beamer@sectionintoc {2}{\ch {MoS2} and TMDs as Materials Beyond Graphene}{6}{0}{2}
+\beamer@sectionintoc {3}{Properties of \ch {MoS2}}{7}{0}{3}
+\beamer@sectionintoc {4}{Synthesis of \ch {MoS2}}{8}{0}{4}
+\beamer@sectionintoc {5}{Applications of \ch {MoS2} in FETs}{9}{0}{5}
+\beamer@sectionintoc {6}{Outlook \& Conclusion}{11}{0}{6}
