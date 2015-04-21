@@ -83,6 +83,11 @@
 \usepackage{chemformula}
 %\usepackage{biblatex}
 
+\newcommand{\exedout}{%
+  \rule{0.8\textwidth}{0.5\textwidth}%
+}
+
+
 %----------------------------------------------------------------------------------------
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
@@ -114,7 +119,21 @@ Wayne State University \\ % Your institution for the title page
 %-----------------------------------------------------------------
 \section{Origins and Discovery of Graphene}
 \begin{frame}
-\frametitle{Before Graphene}
+\frametitle{Search for new Materials}
+\begin{figure}
+\centering
+\begin{minipage}{0.45\textwidth}
+\centering
+\includegraphics[height=4cm,width=4cm]{../present_figs/intel1974}
+\caption{The Intel 8080 introduced in 1974 consisted of approximately 5,000 transistors}
+\end{minipage}\hfill
+\begin{minipage}{0.45\textwidth}
+\centering
+\includegraphics[height=4cm,width=4cm]{../present_figs/i7chip}
+\caption{The Intel Core i7 in 2008 consisted of approximately 731 million transistors}
+\end{minipage}
+\end{figure}
+\cite{Grifantini2008}
 \end{frame}
 
 \begin{frame}
@@ -132,6 +151,21 @@ Wayne State University \\ % Your institution for the title page
 \section{\ch{MoS2} as Materials Beyond Graphene}
 \begin{frame}
 \frametitle{Transition Metal Dichalcogenides}
+
+\begin{figure}
+\centering
+\begin{minipage}{0.45\textwidth}
+\centering
+\exedout % first figure itself
+\caption{first figure}
+\end{minipage}\hfill
+\begin{minipage}{0.45\textwidth}
+\centering
+\exedout % second figure itself
+\caption{second figure}
+\end{minipage}
+\end{figure}
+
 \end{frame}
 
 \begin{frame}
@@ -163,6 +197,11 @@ Wayne State University \\ % Your institution for the title page
 	\bibitem[Fuhrer, 2010]{Fuhrer2010} Fuhrer, M.S. (2010)
 	\newblock  Graphene: Ribbions piece-by-piece
 	\newblock \emph{Nature Materials} (9), 611--612.
+
+	\bibitem[Grifantini, 2008]{Grifantini2008} Grifantini, K. (2008)
+	\newblock Moore's Law
+	\newblock \emph{MIT Technology Review} \emph{http://www.technologyreview.com/photoessay/411485/moores-law/}.
+
 	\end{thebibliography}
 }
 \end{frame}
